@@ -21,9 +21,9 @@ namespace Microsoft.BotBuilderSamples
         {
             _userProfileAccessor = userState.CreateProperty<UserProfile>("UserProfile");
             // combine path for cross platform support
-            Dictionary<string, List<string>> lgFilesPerLocale = new Dictionary<string, List<string>>() {
-                {"", new List<string>() {Path.Combine(".", "Resources", "UserProfileDialog.lg")}},
-                {"fr", new List<string>() {Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg")}}
+            var lgFilesPerLocale = new Dictionary<string, string>() {
+                {"", Path.Combine(".", "Resources", "UserProfileDialog.lg")},
+                {"fr", Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg")}
             };
             _lgGenerator = new MultiLingualTemplateEngine(lgFilesPerLocale);
 
@@ -116,7 +116,7 @@ namespace Microsoft.BotBuilderSamples
             }, stepContext);
 
             // We can send messages to the user at any point in the WaterfallStep.
-            await stepContext.Context.SendActivityAsync(ActivityFactory.CreateActivity(msg.ToString()), cancellationToken);
+            await stepContext.Context.SendActivityAsync(msg, cancellationToken);
 
             // WaterfallStep always finishes with the end of the Waterfall or with another dialog, here it is a Prompt Dialog.
             return await stepContext.PromptAsync(nameof(ConfirmPrompt), new PromptOptions {
@@ -137,7 +137,7 @@ namespace Microsoft.BotBuilderSamples
 
                 var msg = _lgGenerator.GenerateActivity("SummaryReadout", userProfile, stepContext);
 
-                await stepContext.Context.SendActivityAsync(ActivityFactory.CreateActivity(msg.ToString()), cancellationToken);
+                await stepContext.Context.SendActivityAsync(msg, cancellationToken);
             }
             else
             {

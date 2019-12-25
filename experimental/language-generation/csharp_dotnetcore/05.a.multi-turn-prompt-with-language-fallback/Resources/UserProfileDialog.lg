@@ -1,4 +1,5 @@
-﻿> Language Generation definition file. 
+﻿[import](SummaryReadout.lg)
+> Language Generation definition file. 
 > See https://github.com/Microsoft/BotBuilder-Samples/tree/master/experimental/language-generation to learn more
 
 # ModeOfTransportPrompt
@@ -33,9 +34,6 @@
 
 # ConfirmPrompt
 - Is this ok?
-
-# SummaryReadout
-- I have your mode of transport as @{Transport} and your name as @{Name}. @{AgeReadBack(Age)}
 
 # NoProfileReadBack
 - Thanks. Your profile will not be kept.
