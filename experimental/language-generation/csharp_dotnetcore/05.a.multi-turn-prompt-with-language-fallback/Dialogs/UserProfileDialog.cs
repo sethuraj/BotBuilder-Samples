@@ -21,11 +21,11 @@ namespace Microsoft.BotBuilderSamples
         {
             _userProfileAccessor = userState.CreateProperty<UserProfile>("UserProfile");
             // combine path for cross platform support
-            var lgFilesPerLocale = new Dictionary<string, string>() {
+            var lgEntrancePerLocale = new Dictionary<string, string>() {
                 {"", Path.Combine(".", "Resources", "UserProfileDialog.lg")},
                 {"fr", Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg")}
             };
-            _lgGenerator = new MultiLingualTemplateEngine(lgFilesPerLocale);
+            _lgGenerator = new MultiLingualTemplateEngine(lgEntrancePerLocale);
 
             // This array defines how the Waterfall will execute.
             var waterfallSteps = new WaterfallStep[]

@@ -17,12 +17,12 @@ namespace Microsoft.BotBuilderSamples
         public AdapterWithErrorHandler(ICredentialProvider credentialProvider, ILogger<BotFrameworkHttpAdapter> logger, ConversationState conversationState = null)
             : base(credentialProvider)
         {
-            var lgFilesPerLocale = new Dictionary<string, string>() 
+            var lgEntrancePerLocale = new Dictionary<string, string>() 
             {
                 {"", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg")},
                 {"fr", Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg")}
             };
-            _lgManager = new MultiLingualTemplateEngine(lgFilesPerLocale);
+            _lgManager = new MultiLingualTemplateEngine(lgEntrancePerLocale);
             OnTurnError = async (turnContext, exception) =>
             {
                 // Log any leaked exception from the application.

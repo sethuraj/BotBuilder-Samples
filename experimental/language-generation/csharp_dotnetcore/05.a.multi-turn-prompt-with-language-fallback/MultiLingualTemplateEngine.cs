@@ -19,16 +19,16 @@ namespace Microsoft.BotBuilderSamples
         public Dictionary<string, TemplateEngine> TemplateEnginesPerLocale { get; set; } = new Dictionary<string, TemplateEngine>();
         private LanguagePolicy LangFallBackPolicy;
 
-        public MultiLingualTemplateEngine(Dictionary<string, string> lgFilesPerLocale)
+        public MultiLingualTemplateEngine(Dictionary<string, string> lgEntrancePerLocale)
         {
-            if (lgFilesPerLocale == null)
+            if (lgEntrancePerLocale == null)
             {
-                throw new ArgumentNullException(nameof(lgFilesPerLocale));
+                throw new ArgumentNullException(nameof(lgEntrancePerLocale));
             }
 
             LangFallBackPolicy = new LanguagePolicy();
 
-            foreach (var filesPerLocale in lgFilesPerLocale)
+            foreach (var filesPerLocale in lgEntrancePerLocale)
             {
                 var localeIn = GetLocaleFromFileName(Path.GetFileName(filesPerLocale.Value));
                 TemplateEnginesPerLocale[filesPerLocale.Key] = new TemplateEngine().AddFile(filesPerLocale.Value, MultiLingualFileResolver(localeIn));
