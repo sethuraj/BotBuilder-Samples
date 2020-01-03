@@ -17,8 +17,9 @@ namespace Microsoft.BotBuilderSamples
     {
         private readonly string lgFileName;
         private readonly LanguagePolicy languagePolicy;
+        private const string DEFAULT_LG = "main.lg";
 
-        public MultiLingualTemplateEngine(string lgFileName)
+        public MultiLingualTemplateEngine(string lgFileName = DEFAULT_LG)
         {
             languagePolicy = new LanguagePolicy();
             this.lgFileName = Path.GetFileName(lgFileName);
