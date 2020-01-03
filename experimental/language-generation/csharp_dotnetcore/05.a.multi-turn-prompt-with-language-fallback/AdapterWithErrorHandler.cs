@@ -14,15 +14,24 @@ namespace Microsoft.BotBuilderSamples
     public class AdapterWithErrorHandler : BotFrameworkHttpAdapter
     {
         private MultiLingualTemplateEngine _lgGenerator;
-        public AdapterWithErrorHandler(ICredentialProvider credentialProvider, ILogger<BotFrameworkHttpAdapter> logger, ConversationState conversationState = null)
+        public AdapterWithErrorHandler(ICredentialProvider credentialProvider,
+            ILogger<BotFrameworkHttpAdapter> logger,
+            ConversationState conversationState = null)
             : base(credentialProvider)
         {
+            // all lg files that this project would use
             var lgFiles = new List<string> {
+                Path.Combine(".", "Resources", "SummaryReadout.fr.lg"),
                 Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg"),
                 Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg"),
+                Path.Combine(".", "Resources", "SummaryReadout.lg"),
+                Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg"),
+                Path.Combine(".", "Resources", "UserProfileDialog.lg"),
             };
 
-            _lgGenerator = new MultiLingualTemplateEngine(lgFiles, "AdapterWithErrorHandler.lg");
+            Use(new RegisterClassMiddleware<LanguageGeneratorManager>(new LanguageGeneratorManager(lgFiles)));
+
+            _lgGenerator = new MultiLingualTemplateEngine("AdapterWithErrorHandler.lg");
 
             OnTurnError = async (turnContext, exception) =>
             {

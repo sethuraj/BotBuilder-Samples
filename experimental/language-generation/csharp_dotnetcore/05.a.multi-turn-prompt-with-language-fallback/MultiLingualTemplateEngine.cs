@@ -1,40 +1,26 @@
 ﻿// Licensed under the MIT License.
 // Copyright (c) Microsoft Corporation. All rights reserved.
 
-using System.Collections.Generic;
-using Microsoft.Bot.Schema;
-using Microsoft.Bot.Builder.LanguageGeneration;
 using System;
-using Microsoft.Bot.Builder.Dialogs;
+using System.Collections.Generic;
+using System.IO;
 using Microsoft.Bot.Builder;
+using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Dialogs.Adaptive;
 using Microsoft.Bot.Builder.Dialogs.Adaptive.Generators;
-using System.IO;
-using System.Runtime.InteropServices;
-using System.Linq;
+using Microsoft.Bot.Builder.LanguageGeneration;
+using Microsoft.Bot.Schema;
 
 namespace Microsoft.BotBuilderSamples
 {
     public class MultiLingualTemplateEngine
     {
-        private readonly LanguageGeneratorManager manager;
         private readonly string lgFileName;
         private readonly LanguagePolicy languagePolicy;
 
-        public MultiLingualTemplateEngine(IList<string> lgFiles, string lgFileName)
+        public MultiLingualTemplateEngine(string lgFileName)
         {
             languagePolicy = new LanguagePolicy();
-            if (lgFiles == null)
-            {
-                throw new ArgumentNullException(nameof(lgFiles));
-            }
-
-            if (lgFileName == null)
-            {
-                throw new ArgumentNullException(nameof(lgFileName));
-            }
-
-            manager = new LanguageGeneratorManager(lgFiles);
             this.lgFileName = Path.GetFileName(lgFileName);
         }
 
@@ -54,7 +40,7 @@ namespace Microsoft.BotBuilderSamples
             {
                 throw new ArgumentNullException(nameof(stepContext));
             }
-            return InternalGenerateActivity(templateName, data, stepContext.Context.Activity.Locale);
+            return InternalGenerateActivity(templateName, data, stepContext.Context);
 
         }
 
@@ -74,7 +60,7 @@ namespace Microsoft.BotBuilderSamples
             {
                 throw new ArgumentNullException(nameof(turnContext));
             }
-            return InternalGenerateActivity(templateName, data, turnContext.Activity.Locale);
+            return InternalGenerateActivity(templateName, data, turnContext);
         }
 
         public Activity GenerateActivity(string templateName, WaterfallStepContext stepContext)
@@ -88,7 +74,7 @@ namespace Microsoft.BotBuilderSamples
             {
                 throw new ArgumentNullException(nameof(stepContext));
             }
-            return InternalGenerateActivity(templateName, null, stepContext.Context.Activity.Locale);
+            return InternalGenerateActivity(templateName, null, stepContext.Context);
         }
 
         public Activity GenerateActivity(string templateName, TurnContext turnContext)
@@ -102,12 +88,13 @@ namespace Microsoft.BotBuilderSamples
             {
                 throw new ArgumentNullException(nameof(turnContext));
             }
-            return InternalGenerateActivity(templateName, null, turnContext.Activity.Locale);
+            return InternalGenerateActivity(templateName, null, turnContext);
         }
 
-        private Activity InternalGenerateActivity(string templateName, object data, string locale)
+        private Activity InternalGenerateActivity(string templateName, object data, ITurnContext turnContext)
         {
-            var iLocale = locale ?? "";
+            var lgm = turnContext.TurnState.Get<LanguageGeneratorManager>();
+            var iLocale = turnContext.Activity.Locale ?? "";
 
             var locales = new string[] { string.Empty };
             if (!languagePolicy.TryGetValue(iLocale, out locales))
@@ -122,7 +109,7 @@ namespace Microsoft.BotBuilderSamples
             foreach (var currentLocale in locales)
             {
                 var resourceId = string.IsNullOrEmpty(currentLocale) ? lgFileName : lgFileName.Replace(".lg", $".{currentLocale}.lg");
-                if (manager.engines.TryGetValue(resourceId, out var engine))
+                if (lgm.engines.TryGetValue(resourceId, out var engine))
                 {
                     templateEngines.Add(engine);
                 }

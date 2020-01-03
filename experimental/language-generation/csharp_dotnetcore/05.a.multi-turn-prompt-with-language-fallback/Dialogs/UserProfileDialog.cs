@@ -20,16 +20,8 @@ namespace Microsoft.BotBuilderSamples
             : base(nameof(UserProfileDialog))
         {
             _userProfileAccessor = userState.CreateProperty<UserProfile>("UserProfile");
-            var lgFiles = new List<string> {
-                Path.Combine(".", "Resources", "SummaryReadout.fr.lg"),
-                Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg"),
-                Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg"),
-                Path.Combine(".", "Resources", "SummaryReadout.lg"),
-                Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg"),
-                Path.Combine(".", "Resources", "UserProfileDialog.lg"),
-            };
 
-            _lgGenerator = new MultiLingualTemplateEngine(lgFiles, "UserProfileDialog.lg");
+            _lgGenerator = new MultiLingualTemplateEngine("UserProfileDialog.lg");
 
             // This array defines how the Waterfall will execute.
             var waterfallSteps = new WaterfallStep[]
