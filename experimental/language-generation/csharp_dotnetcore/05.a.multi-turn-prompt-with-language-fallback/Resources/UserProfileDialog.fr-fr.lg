@@ -26,12 +26,6 @@
 > This template uses inline expressions. Expressions are defined using the common expression language. 
 > See https://github.com/Microsoft/BotBuilder-Samples/tree/master/experimental/common-expression-language to learn more.
 
-# AgeReadBack (userAge)
-- IF: @{userAge == null}
-   - Et, pas d'âge donné.
-- ELSE: 
-   - Et, j'ai votre âge comme @{userAge}.
-
 # ConfirmPrompt
 - C'est bon ?
 

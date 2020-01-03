@@ -11,28 +11,31 @@ using Microsoft.Bot.Builder.Dialogs.Adaptive;
 using Microsoft.Bot.Builder.Dialogs.Adaptive.Generators;
 using System.IO;
 using System.Runtime.InteropServices;
+using System.Linq;
 
 namespace Microsoft.BotBuilderSamples
 {
     public class MultiLingualTemplateEngine
     {
-        public Dictionary<string, TemplateEngine> TemplateEnginesPerLocale { get; set; } = new Dictionary<string, TemplateEngine>();
-        private LanguagePolicy LangFallBackPolicy;
+        private readonly LanguageGeneratorManager manager;
+        private readonly string lgFileName;
+        private readonly LanguagePolicy languagePolicy;
 
-        public MultiLingualTemplateEngine(Dictionary<string, string> lgEntrancePerLocale)
+        public MultiLingualTemplateEngine(IList<string> lgFiles, string lgFileName)
         {
-            if (lgEntrancePerLocale == null)
+            languagePolicy = new LanguagePolicy();
+            if (lgFiles == null)
             {
-                throw new ArgumentNullException(nameof(lgEntrancePerLocale));
+                throw new ArgumentNullException(nameof(lgFiles));
             }
 
-            LangFallBackPolicy = new LanguagePolicy();
-
-            foreach (var filesPerLocale in lgEntrancePerLocale)
+            if (lgFileName == null)
             {
-                var localeIn = GetLocaleFromFileName(Path.GetFileName(filesPerLocale.Value));
-                TemplateEnginesPerLocale[filesPerLocale.Key] = new TemplateEngine().AddFile(filesPerLocale.Value, MultiLingualFileResolver(localeIn));
+                throw new ArgumentNullException(nameof(lgFileName));
             }
+
+            manager = new LanguageGeneratorManager(lgFiles);
+            this.lgFileName = Path.GetFileName(lgFileName);
         }
 
         public Activity GenerateActivity(string templateName, object data, WaterfallStepContext stepContext)
@@ -106,97 +109,44 @@ namespace Microsoft.BotBuilderSamples
         {
             var iLocale = locale ?? "";
 
-            if (TemplateEnginesPerLocale.ContainsKey(iLocale))
+            var locales = new string[] { string.Empty };
+            if (!languagePolicy.TryGetValue(iLocale, out locales))
             {
-                return ActivityFactory.CreateActivity(TemplateEnginesPerLocale[locale].EvaluateTemplate(templateName, data).ToString());
-            }
-            var locales = GetOptionalLocals(iLocale);
-
-            foreach (var fallBackLocale in locales)
-            {
-                if (TemplateEnginesPerLocale.ContainsKey(fallBackLocale))
-                {
-                    return ActivityFactory.CreateActivity(TemplateEnginesPerLocale[fallBackLocale].EvaluateTemplate(templateName, data).ToString());
-                }
-            }
-            return new Activity();
-        }
-
-
-        private string[] GetOptionalLocals(string iLocale)
-        {
-            if (!LangFallBackPolicy.TryGetValue(iLocale, out var locales))
-            {
-                if (!LangFallBackPolicy.TryGetValue(string.Empty, out locales))
+                if (!languagePolicy.TryGetValue(string.Empty, out locales))
                 {
                     throw new Exception($"No supported language found for {iLocale}");
                 }
             }
 
-            return locales;
-        }
-
-        private ImportResolverDelegate MultiLingualFileResolver(string locale)
-        {
-            return (string sourceId, string resourceId) =>
+            var templateEngines = new List<TemplateEngine>();
+            foreach (var currentLocale in locales)
             {
-                // import paths are in resource files which can be executed on multiple OS environments
-                // normalize to map / & \ in importPath -> OSPath
-                var importPath = NormalizePath(resourceId);
-
-                if (!Path.IsPathRooted(importPath))
+                var resourceId = string.IsNullOrEmpty(currentLocale) ? lgFileName : lgFileName.Replace(".lg", $".{currentLocale}.lg");
+                if (manager.engines.TryGetValue(resourceId, out var engine))
                 {
-                    // get full path for importPath relative to path which is doing the import.
-                    importPath = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(sourceId), resourceId));
+                    templateEngines.Add(engine);
                 }
+            }
 
-                var locales = GetOptionalLocals(locale);
+            if (templateEngines.Count == 0)
+            {
+                throw new Exception($"No template engine found for language {iLocale}");
+            }
 
-                foreach (var fallBackLocale in locales)
+            var errors = new List<string>();
+            foreach (var engine in templateEngines)
+            {
+                try
                 {
-                    var newFilePath = string.IsNullOrEmpty(fallBackLocale) ? importPath : importPath.Replace(".lg", $".{fallBackLocale}.lg");
-                    if (File.Exists(newFilePath))
-                    {
-                        return (File.ReadAllText(importPath), newFilePath);
-                    }
+                    return ActivityFactory.CreateActivity(engine.EvaluateTemplate(templateName, data).ToString());
                 }
-
-                throw new Exception($"Something is wrong when import {resourceId} from {sourceId}");
-            };
-        }
-
-        private string NormalizePath(string ambigiousPath)
-        {
-            if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
-            {
-                // map linux/mac sep -> windows
-                return ambigiousPath.Replace("/", "\\");
-            }
-            else
-            {
-                // map windows sep -> linux/mac
-                return ambigiousPath.Replace("\\", "/");
-            }
-        }
-
-        private string GetLocaleFromFileName(string lgFileName)
-        {
-            if (string.IsNullOrEmpty(lgFileName) || !lgFileName.EndsWith(".lg"))
-            {
-                return string.Empty;
+                catch (Exception err)
+                {
+                    errors.Add(err.Message);
+                }
             }
 
-            var fileName = lgFileName.Substring(0, lgFileName.Length - ".lg".Length);
-
-            var lastDot = fileName.LastIndexOf(".");
-            if (lastDot > 0)
-            {
-                return fileName.Substring(lastDot + 1);
-            }
-            else
-            {
-                return string.Empty;
-            }
+            return new Activity();
         }
     }
 }

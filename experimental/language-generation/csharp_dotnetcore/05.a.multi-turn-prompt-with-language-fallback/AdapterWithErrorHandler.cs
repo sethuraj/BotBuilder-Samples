@@ -13,23 +13,24 @@ namespace Microsoft.BotBuilderSamples
 {
     public class AdapterWithErrorHandler : BotFrameworkHttpAdapter
     {
-        private MultiLingualTemplateEngine _lgManager;
+        private MultiLingualTemplateEngine _lgGenerator;
         public AdapterWithErrorHandler(ICredentialProvider credentialProvider, ILogger<BotFrameworkHttpAdapter> logger, ConversationState conversationState = null)
             : base(credentialProvider)
         {
-            var lgEntrancePerLocale = new Dictionary<string, string>() 
-            {
-                {"", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg")},
-                {"fr", Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg")}
+            var lgFiles = new List<string> {
+                Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg"),
+                Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg"),
             };
-            _lgManager = new MultiLingualTemplateEngine(lgEntrancePerLocale);
+
+            _lgGenerator = new MultiLingualTemplateEngine(lgFiles, "AdapterWithErrorHandler.lg");
+
             OnTurnError = async (turnContext, exception) =>
             {
                 // Log any leaked exception from the application.
                 logger.LogError($"Exception caught : {exception.Message}");
 
                 // Send a catch-all apology to the user.
-                await turnContext.SendActivityAsync(_lgManager.GenerateActivity("SomethingWentWrong", exception, turnContext));
+                await turnContext.SendActivityAsync(_lgGenerator.GenerateActivity("SomethingWentWrong", exception, turnContext));
 
                 if (conversationState != null)
                 {
