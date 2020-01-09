@@ -95,12 +95,20 @@ namespace Microsoft.BotBuilderSamples
         {
             var iLocale = turnContext.Activity.Locale ?? "";
 
-            if (!localeToEntryFileMapping.TryGetValue(iLocale, out var filePath))
+            var locales = GetOptionalLocals(iLocale);
+
+            var filePath = string.Empty;
+            foreach (var currentLocale in locales)
             {
-                if (!localeToEntryFileMapping.TryGetValue(string.Empty, out filePath))
+                if (localeToEntryFileMapping.TryGetValue(currentLocale, out filePath))
                 {
-                    throw new Exception($"locale {turnContext.Activity.Locale} has no entry lg file.");
+                    break;
                 }
+            }
+
+            if (string.IsNullOrEmpty(filePath))
+            {
+                throw new Exception($"locale {turnContext.Activity.Locale} has no entry lg file.");
             }
 
             var importResolver = MultiLangResolver(iLocale);
@@ -120,14 +128,7 @@ namespace Microsoft.BotBuilderSamples
                     importPath = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(sourceId), resourceId));
                 }
 
-                var locales = new string[] { string.Empty };
-                if (!languagePolicy.TryGetValue(locale, out locales))
-                {
-                    if (!languagePolicy.TryGetValue(string.Empty, out locales))
-                    {
-                        throw new Exception($"No supported language found for {locale}");
-                    }
-                }
+                var locales = GetOptionalLocals(locale);
 
                 foreach (var currentLocale in locales)
                 {
@@ -140,6 +141,20 @@ namespace Microsoft.BotBuilderSamples
 
                 throw new Exception($"can not find file {importPath} with locale {locale}.");
             };
+        }
+
+        private string[] GetOptionalLocals(string locale)
+        {
+            var locales = new string[] { string.Empty };
+            if (!languagePolicy.TryGetValue(locale, out locales))
+            {
+                if (!languagePolicy.TryGetValue(string.Empty, out locales))
+                {
+                    throw new Exception($"No supported language found for {locale}");
+                }
+            }
+
+            return locales;
         }
     }
 }
