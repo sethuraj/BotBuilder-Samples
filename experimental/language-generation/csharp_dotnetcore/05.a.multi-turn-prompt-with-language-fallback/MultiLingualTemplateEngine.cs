@@ -15,12 +15,12 @@ namespace Microsoft.BotBuilderSamples
 {
     public class MultiLingualTemplateEngine
     {
-        private readonly Dictionary<string, string> localToFileMapping;
+        private readonly Dictionary<string, string> localeToEntryFileMapping;
         private readonly LanguagePolicy languagePolicy;
 
-        public MultiLingualTemplateEngine(Dictionary<string, string> localToFileMapping)
+        public MultiLingualTemplateEngine(Dictionary<string, string> localeToEntryFileMapping)
         {
-            this.localToFileMapping = localToFileMapping;
+            this.localeToEntryFileMapping = localeToEntryFileMapping;
             languagePolicy = new LanguagePolicy();
         }
 
@@ -93,25 +93,18 @@ namespace Microsoft.BotBuilderSamples
 
         private Activity InternalGenerateActivity(string templateName, object data, ITurnContext turnContext)
         {
-            var lgm = turnContext.TurnState.Get<LanguageGeneratorManager>();
             var iLocale = turnContext.Activity.Locale ?? "";
 
-            string lgFilePath;
-            if (localToFileMapping.ContainsKey(iLocale))
+            if (!localeToEntryFileMapping.TryGetValue(iLocale, out var filePath))
             {
-                lgFilePath = localToFileMapping[iLocale];
-            }
-            else if (localToFileMapping.ContainsKey(""))
-            {
-                lgFilePath = localToFileMapping[""];
-            }
-            else
-            {
-                throw new Exception($"locale {turnContext.Activity.Locale} has no entry lg file.");
+                if (!localeToEntryFileMapping.TryGetValue(string.Empty, out filePath))
+                {
+                    throw new Exception($"locale {turnContext.Activity.Locale} has no entry lg file.");
+                }
             }
 
             var importResolver = MultiLangResolver(iLocale);
-            var engine = new TemplateEngine().AddFile(lgFilePath, importResolver);
+            var engine = new TemplateEngine().AddFile(filePath, importResolver);
 
             return ActivityFactory.CreateActivity(engine.EvaluateTemplate(templateName, data).ToString());
         }
