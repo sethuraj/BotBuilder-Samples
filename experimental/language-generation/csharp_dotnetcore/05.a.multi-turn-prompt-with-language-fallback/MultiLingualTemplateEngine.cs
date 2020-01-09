@@ -23,7 +23,7 @@ namespace Microsoft.BotBuilderSamples
         {
             this.localeToEntryFileMapping = localeToEntryFileMapping;
             languagePolicy = new LanguagePolicy();
-            this.importDelegate = importDelegate ?? Resolver.DefaultFileResolver;
+            this.importDelegate = importDelegate ?? ImportResolver.DefaultFileResolver;
         }
 
         public Activity GenerateActivity(string templateName, object data, WaterfallStepContext stepContext)

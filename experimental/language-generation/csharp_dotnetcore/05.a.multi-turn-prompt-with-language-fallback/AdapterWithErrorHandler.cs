@@ -26,7 +26,7 @@ namespace Microsoft.BotBuilderSamples
             };
 
             // replace MultiLangResolver to customize your own import resolver.
-            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile, Resolver.MultiLangResolver);
+            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile, ImportResolver.MultiLangResolver);
 
             OnTurnError = async (turnContext, exception) =>
             {
