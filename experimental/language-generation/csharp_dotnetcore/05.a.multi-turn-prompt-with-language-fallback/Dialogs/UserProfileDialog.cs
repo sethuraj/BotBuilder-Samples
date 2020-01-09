@@ -8,7 +8,6 @@ using Microsoft.Bot.Builder;
 using System.Collections.Generic;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Dialogs.Choices;
-using Microsoft.Bot.Builder.Dialogs.Adaptive.Generators;
 using System;
 
 namespace Microsoft.BotBuilderSamples
@@ -29,7 +28,8 @@ namespace Microsoft.BotBuilderSamples
                 { "", Path.Combine(".", "Resources", "UserProfileDialog.lg") } // default
             };
 
-            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile);
+            // replace MultiLangResolver to customize your own import resolver.
+            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile, ImportResolver.MultiLangResolver);
 
             // This array defines how the Waterfall will execute.
             var waterfallSteps = new WaterfallStep[]

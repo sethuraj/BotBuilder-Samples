@@ -24,7 +24,9 @@ namespace Microsoft.BotBuilderSamples
                 { "en-us", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg") },
                 { "", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg") } // default
             };
-            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile);
+
+            // replace MultiLangResolver to customize your own import resolver.
+            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile, Resolver.MultiLangResolver);
 
             OnTurnError = async (turnContext, exception) =>
             {

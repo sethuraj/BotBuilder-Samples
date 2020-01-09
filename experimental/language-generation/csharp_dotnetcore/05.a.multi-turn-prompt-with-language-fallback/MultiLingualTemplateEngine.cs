@@ -17,11 +17,13 @@ namespace Microsoft.BotBuilderSamples
     {
         private readonly Dictionary<string, string> localeToEntryFileMapping;
         private readonly LanguagePolicy languagePolicy;
+        private readonly Func<string, ImportResolverDelegate> importDelegate;
 
-        public MultiLingualTemplateEngine(Dictionary<string, string> localeToEntryFileMapping)
+        public MultiLingualTemplateEngine(Dictionary<string, string> localeToEntryFileMapping, Func<string, ImportResolverDelegate> importDelegate = null)
         {
             this.localeToEntryFileMapping = localeToEntryFileMapping;
             languagePolicy = new LanguagePolicy();
+            this.importDelegate = importDelegate ?? Resolver.DefaultFileResolver;
         }
 
         public Activity GenerateActivity(string templateName, object data, WaterfallStepContext stepContext)
@@ -111,37 +113,11 @@ namespace Microsoft.BotBuilderSamples
                 throw new Exception($"locale {turnContext.Activity.Locale} has no entry lg file.");
             }
 
-            var importResolver = MultiLangResolver(iLocale);
-            var engine = new TemplateEngine().AddFile(filePath, importResolver);
+            var engine = new TemplateEngine().AddFile(filePath, importDelegate(iLocale));
 
             return ActivityFactory.CreateActivity(engine.EvaluateTemplate(templateName, data).ToString());
         }
 
-        private ImportResolverDelegate MultiLangResolver(string locale)
-        {
-            return (string sourceId, string resourceId) =>
-            {
-                var importPath = ImportResolver.NormalizePath(resourceId);
-
-                if (!Path.IsPathRooted(importPath))
-                {
-                    importPath = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(sourceId), resourceId));
-                }
-
-                var locales = GetOptionalLocals(locale);
-
-                foreach (var currentLocale in locales)
-                {
-                    var newFilePath = string.IsNullOrEmpty(currentLocale) ? importPath : importPath.Replace(".lg", $".{currentLocale}.lg");
-                   if (File.Exists(newFilePath))
-                    {
-                        return (File.ReadAllText(newFilePath), newFilePath);
-                    }
-                }
-
-                throw new Exception($"can not find file {importPath} with locale {locale}.");
-            };
-        }
 
         private string[] GetOptionalLocals(string locale)
         {
