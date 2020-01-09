@@ -19,19 +19,12 @@ namespace Microsoft.BotBuilderSamples
             ConversationState conversationState = null)
             : base(credentialProvider)
         {
-            // all lg files that this project would use
-            var lgFiles = new List<string> {
-                Path.Combine(".", "Resources", "SummaryReadout.fr.lg"),
-                Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg"),
-                Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg"),
-                Path.Combine(".", "Resources", "SummaryReadout.lg"),
-                Path.Combine(".", "Resources", "UserProfileDialog.fr-fr.lg"),
-                Path.Combine(".", "Resources", "UserProfileDialog.lg"),
+            var localToEntryLgFile = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
+                { "fr-fr", Path.Combine(".", "Resources", "AdapterWithErrorHandler.fr-fr.lg") },
+                { "en-us", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg") },
+                { "", Path.Combine(".", "Resources", "AdapterWithErrorHandler.lg") } // default
             };
-
-            Use(new RegisterClassMiddleware<LanguageGeneratorManager>(new LanguageGeneratorManager(lgFiles)));
-
-            _lgGenerator = new MultiLingualTemplateEngine("AdapterWithErrorHandler.lg");
+            _lgGenerator = new MultiLingualTemplateEngine(localToEntryLgFile);
 
             OnTurnError = async (turnContext, exception) =>
             {
