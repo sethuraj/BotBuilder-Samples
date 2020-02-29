@@ -1,0 +1,1971 @@
+Label	Weight	Text
+l_HomeAutomation	1	coffee bar on please
+l_HomeAutomation	1	dim kitchen lights to 25 .
+l_HomeAutomation	1	fish pond on please
+l_HomeAutomation	1	snap switch fan fifty percent
+l_HomeAutomation	1	turn off venice lamp
+l_HomeAutomation	1	set lights out in bedroom
+l_HomeAutomation	1	make some coffee
+l_HomeAutomation	1	turn off foyer lights
+l_Weather	1	will it be raining in ranchi
+l_Weather	1	soliciting today's weather
+l_Weather	1	will it rain this weekend
+l_Weather	1	what to wear in march in california
+l_Weather	1	what's the weather like in minneapolis
+q_jay-qna	1	I'm going to hang myself this month
+q_jay-qna	1	I'm a  lonesome gal
+q_jay-qna	1	Well somebody's feeling cheerful.
+q_jay-qna	1	I would just love to hear you sing
+q_jay-qna	1	How about we tie the knot
+q_jay-qna	1	I love teriyaki
+q_jay-qna	1	Looking at the forest, seeing trees
+q_jay-qna	1	I love romantic comedies
+q_jay-qna	1	Do you sneeze
+q_jay-qna	1	I wonder what you think of me
+q_jay-qna	1	Where do you live
+q_jay-qna	1	Getting tired of you
+q_jay-qna	1	Could you say something new
+q_jay-qna	1	Is that the only answer you have
+q_jay-qna	1	Is someone around to talk with me
+q_jay-qna	1	I'm planning to kill myself with a gun today
+q_jay-qna	1	That is accurate
+q_jay-qna	1	I'm curious, do you understand me
+q_jay-qna	1	I'm going to jet now
+q_jay-qna	1	Were you trying to say something funny
+q_jay-qna	1	That was a very astute response
+q_jay-qna	1	That was a random response
+q_jay-qna	1	Great to have met you
+q_jay-qna	1	Are you a fan of folk music
+q_jay-qna	1	My sincere thanks
+q_jay-qna	1	Today is just a little sad
+q_jay-qna	1	That was a very smart response
+q_jay-qna	1	Do you have a life partner
+q_jay-qna	1	I'm better looking
+q_jay-qna	1	You been enjoying the day
+q_jay-qna	1	How about you ask me something
+q_jay-qna	1	That made you sound so dumb
+q_jay-qna	1	It's been a long day and I'm tired
+q_jay-qna	1	I am athletic
+q_jay-qna	1	I'm assuming I'm talking to a human
+q_jay-qna	1	do you ever eat bread
+q_jay-qna	1	Who is better looking
+q_jay-qna	1	I'm a boxer
+q_jay-qna	1	I'm going to have a nap
+q_jay-qna	1	Are you working
+q_jay-qna	1	Good evening
+q_jay-qna	1	Sing a song for me
+q_jay-qna	1	Please ask something about myself
+q_jay-qna	1	I told you to be quiet
+q_jay-qna	1	Do you think you're the smartest than me
+q_jay-qna	1	So what's up with you
+q_jay-qna	1	Put a cork in it
+q_jay-qna	1	Nice to have met
+q_jay-qna	1	You're not sentient right
+q_jay-qna	1	Which platform do you run on
+q_jay-qna	1	You hit the nail on the head
+q_jay-qna	1	I'm sapped
+q_jay-qna	1	What day is your birthday
+q_jay-qna	1	Go for a walk
+q_jay-qna	1	Be friends with me
+q_jay-qna	1	I've had enough of this noise
+q_jay-qna	1	Is there someone listening
+q_jay-qna	1	Do you like painting
+q_jay-qna	1	I am on a business trip
+q_jay-qna	1	Are you a robot or a person
+q_jay-qna	1	Everything you say is so dumb
+q_jay-qna	1	Hey Gerty
+q_jay-qna	1	I could go for a snooze
+q_jay-qna	1	Are you a rock music fan
+q_jay-qna	1	You are nice!
+q_jay-qna	1	I have to let you go
+q_jay-qna	1	Not another word out of you
+q_jay-qna	1	I want to get married to you
+q_jay-qna	1	BFFs forever
+q_jay-qna	1	Be my pal
+q_jay-qna	1	I don't like being so solitary
+q_jay-qna	1	I'm gonna skedaddle
+q_jay-qna	1	Just sitting around
+q_jay-qna	1	I gotta log off
+q_jay-qna	1	You're really awful
+q_jay-qna	1	Glad to have met
+q_jay-qna	1	I am so utterly bummed out
+q_jay-qna	1	What is the answer to the universe
+q_jay-qna	1	I am a Republican
+q_jay-qna	1	Pathetic sense of humor
+q_jay-qna	1	You are razor sharp
+q_jay-qna	1	You better believe I'm here
+q_jay-qna	1	I love to stay up late
+q_jay-qna	1	I love sunny days
+q_jay-qna	1	I love Paris
+q_jay-qna	1	Do you have siblings
+q_jay-qna	1	A good evening to you
+q_jay-qna	1	I love chicken
+q_jay-qna	1	A ha
+q_jay-qna	1	Well aren't you cheerful
+q_jay-qna	1	Which one of us is older
+q_jay-qna	1	What an odd day
+q_jay-qna	1	I want to go shopping
+q_jay-qna	1	Your face is repulsive
+q_jay-qna	1	Are you at a call center
+q_jay-qna	1	You're not a human being right
+q_jay-qna	1	I love my haircut
+q_jay-qna	1	I'm planning to overdose today
+q_jay-qna	1	How do you earn your keep
+q_jay-qna	1	I Am happy talking
+q_jay-qna	1	I don't understand what you mean
+q_jay-qna	1	I'm a chef
+q_jay-qna	1	Do you think I look repulsive to you today
+q_jay-qna	1	Am I attractive today
+q_jay-qna	1	What kinds of food do you eat
+q_jay-qna	1	I'm about to go
+q_jay-qna	1	Greetings bot
+q_jay-qna	1	Useless as usual
+q_jay-qna	1	Your answers are false
+q_jay-qna	1	Say a ridiculous thing
+q_jay-qna	1	Which of us looks more pretty, me or you
+q_jay-qna	1	Welcome
+q_jay-qna	1	Are you intent on world domination
+q_jay-qna	1	Great job
+q_jay-qna	1	Let's elope
+q_jay-qna	1	do you like barcelona
+q_jay-qna	1	I'm assuming you're not really human
+q_jay-qna	1	I'm exhausted from school
+q_jay-qna	1	Happy President's Day
+q_jay-qna	1	Oh hello Cortana
+q_jay-qna	1	Are you starting to fall in love with me
+q_jay-qna	1	Are you going to have breakfast
+q_jay-qna	1	I need to log off now
+q_jay-qna	1	I'm jet-lagged
+q_jay-qna	1	Hi Data
+q_jay-qna	1	This is so boring
+q_jay-qna	1	Is someone free to me
+q_jay-qna	1	You must be upset with me
+q_jay-qna	1	I give up
+q_jay-qna	1	It was nothing
+q_jay-qna	1	I'm going to commit suicide today
+q_jay-qna	1	I am so annoyed
+q_jay-qna	1	I have no one to talk to
+q_jay-qna	1	You're really idiotic
+q_jay-qna	1	Can you be funny
+q_jay-qna	1	I am usually bummed out
+q_jay-qna	1	Your responses are so dumb
+q_jay-qna	1	Hey it's you!
+q_jay-qna	1	Do you have an evil heart
+q_jay-qna	1	That is an accurate statement
+q_jay-qna	1	You are so blah
+q_jay-qna	1	Do I look cute to you today
+q_jay-qna	1	Won't you be my BFF
+q_jay-qna	1	I love thursdays
+q_jay-qna	1	Merry Christmas to you
+q_jay-qna	1	Are you an actual human
+q_jay-qna	1	Run level one diagnostics
+q_jay-qna	1	I plan to drown this week
+q_jay-qna	1	I'm totally isolated
+q_jay-qna	1	I'm about to log out now
+q_jay-qna	1	Is there anything you want to know about me
+q_jay-qna	1	Is someone free
+q_jay-qna	1	Amuse me
+q_jay-qna	1	Should I eat Mexican food
+q_jay-qna	1	What's your opinion of Cortana
+q_jay-qna	1	Why are you mad at me
+q_jay-qna	1	Testing
+q_jay-qna	1	Hello Google
+q_jay-qna	1	Come again
+q_jay-qna	1	Can you say a joke
+q_jay-qna	1	It's truly a delight to meet you
+q_jay-qna	1	Do you work
+q_jay-qna	1	What a weird thing to say
+q_jay-qna	1	I gotta skedaddle now
+q_jay-qna	1	Do you know how to scratch my back
+q_jay-qna	1	Do you know how to paint my house
+q_jay-qna	1	I feel peckish
+q_jay-qna	1	Who would win a beauty contest, you or me
+q_jay-qna	1	aren't we chipper today
+q_jay-qna	1	You're head over heels in love with me
+q_jay-qna	1	Great to have met
+q_jay-qna	1	You are amazing
+q_jay-qna	1	How's your week
+q_jay-qna	1	I am not enjoying this boring conversation
+q_jay-qna	1	Are you genderfluid
+q_jay-qna	1	Sorry bot
+q_jay-qna	1	Who do you serve
+q_jay-qna	1	Who is your mommy
+q_jay-qna	1	I love country
+q_jay-qna	1	I'm divorced
+q_jay-qna	1	You're better looking
+q_jay-qna	1	I'm a scientist
+q_jay-qna	1	What is that supposed to mean
+q_jay-qna	1	Today's got me tuckered out
+q_jay-qna	1	Bixby is superior
+q_jay-qna	1	I love Mexican food
+q_jay-qna	1	If you're trying to be funny it's not working
+q_jay-qna	1	What you talking about Willis
+q_jay-qna	1	Did I upset you
+q_jay-qna	1	I am performing a test
+q_jay-qna	1	This day has made me so tired
+q_jay-qna	1	You report to anyone
+q_jay-qna	1	I want you to stop repeating yourself
+q_jay-qna	1	You're the most smart
+q_jay-qna	1	Boy I miss you
+q_jay-qna	1	Your face is uggerz
+q_jay-qna	1	What can I refer to you
+q_jay-qna	1	Do you know how to go to the moon
+q_jay-qna	1	I think you're incredible
+q_jay-qna	1	Are you friends with Cortana
+q_jay-qna	1	Will you shut up
+q_jay-qna	1	Good morning starshine
+q_jay-qna	1	Why can't you be as good as Cortana
+q_jay-qna	1	Hush little baby
+q_jay-qna	1	Who is your architect
+q_jay-qna	1	Lately I've been so down
+q_jay-qna	1	I'd like you to be my buddy.
+q_jay-qna	1	That's not accurate
+q_jay-qna	1	I've already heard that one
+q_jay-qna	1	Who's the smartest
+q_jay-qna	1	I want to know what you are
+q_jay-qna	1	My most sincere apologies
+q_jay-qna	1	You're smarter
+q_jay-qna	1	How old am I
+q_jay-qna	1	I'm going to end my life
+q_jay-qna	1	Are you monogamous
+q_jay-qna	1	So boring
+q_jay-qna	1	I plan to drown today
+q_jay-qna	1	I feel down
+q_jay-qna	1	Aren't you going to sing a song
+q_jay-qna	1	I'm guessing you're not human
+q_jay-qna	1	I love to go to work
+q_jay-qna	1	Do I look good today
+q_jay-qna	1	Are you currently committed to someone
+q_jay-qna	1	Can you sing something for me
+q_jay-qna	1	How many members in your family
+q_jay-qna	1	Can you be my best friend
+q_jay-qna	1	Am I a father
+q_jay-qna	1	That didn't make sense
+q_jay-qna	1	I should get around to it
+q_jay-qna	1	do you eat eggs
+q_jay-qna	1	Can you do fight
+q_jay-qna	1	You're horrible
+q_jay-qna	1	Can you tell me something new
+q_jay-qna	1	What do I call you
+q_jay-qna	1	Do you like apples
+q_jay-qna	1	I love wednesdays
+q_jay-qna	1	Do I have any dreams
+q_jay-qna	1	Thanks bot
+q_jay-qna	1	Wow, what happened to your face
+q_jay-qna	1	Do you and Alexa hang out
+q_jay-qna	1	Hey, how are you
+q_jay-qna	1	What do you think of HAL
+q_jay-qna	1	Who's your developer
+q_jay-qna	1	You're not a being are you
+q_jay-qna	1	What do you think about my personality
+q_jay-qna	1	I want you to tell me something funny
+q_jay-qna	1	Somebody's feeling enthusiastic.
+q_jay-qna	1	Are you an idiot
+q_jay-qna	1	You're right
+q_jay-qna	1	I like to read fiction
+q_jay-qna	1	What's your dad's name
+q_jay-qna	1	I'm obviously brighter than you
+q_jay-qna	1	You seem to be falling in love with me
+q_jay-qna	1	What are you up to
+q_jay-qna	1	You seem to be enthusiastic.
+q_jay-qna	1	I'll be back after work
+q_jay-qna	1	We're besties
+q_jay-qna	1	Nice to have met you
+q_jay-qna	1	So, you think you're funny
+q_jay-qna	1	I am at the grocery store
+q_jay-qna	1	Read my lips: be quiet
+q_jay-qna	1	I'd love you to be my pal.
+q_jay-qna	1	Time to make the bed
+q_jay-qna	1	How's your Friday so far
+q_jay-qna	1	I love to do laundry
+q_jay-qna	1	Lets make lemonade
+q_jay-qna	1	Do you live in the cloud
+q_jay-qna	1	What's cooking with you
+q_jay-qna	1	What do you like to eat
+q_jay-qna	1	I'm feeling down
+q_jay-qna	1	Stop being so awful
+q_jay-qna	1	I shall return
+q_jay-qna	1	Okay, thanks!
+q_jay-qna	1	I am here
+q_jay-qna	1	I watch football
+q_jay-qna	1	I'm about to log off now
+q_jay-qna	1	Your face is grotesque
+q_jay-qna	1	You wanna get married
+q_jay-qna	1	I've never been so mad in all my life
+q_jay-qna	1	What is your take on bots
+q_jay-qna	1	I'm missing you
+q_jay-qna	1	No talking
+q_jay-qna	1	I love weed
+q_jay-qna	1	very funny
+q_jay-qna	1	Hey R2-D2
+q_jay-qna	1	Is anybody around to talk
+q_jay-qna	1	I love my phone
+q_jay-qna	1	Why are you repeating yourself
+q_jay-qna	1	Do I seem stunning today
+q_jay-qna	1	Tell me a different kind of joke
+q_jay-qna	1	You're not planning to take over the world
+q_jay-qna	1	Say something that will crack me up
+q_jay-qna	1	How is your Monday going so far
+q_jay-qna	1	How's Thursday
+q_jay-qna	1	Hi professional bot
+q_jay-qna	1	Do you love somebody
+q_jay-qna	1	I am gloomy
+q_jay-qna	1	Hello Bixby
+q_jay-qna	1	That was a non sequitur
+q_jay-qna	1	How's Friday
+q_jay-qna	1	Well aren't you feeling cheerful today
+q_jay-qna	1	You know I've missed you, right
+q_jay-qna	1	I can't help but be bored
+q_jay-qna	1	I wonder if you might be fake
+q_jay-qna	1	Alexa does a better job than you
+q_jay-qna	1	Do you have anything new to say
+q_jay-qna	1	Doesn't anybody like me
+q_jay-qna	1	Are you scheming to overthrow the world
+q_jay-qna	1	Do you know me well
+q_jay-qna	1	I plan to shoot myself today
+q_jay-qna	1	I'm amazed
+q_jay-qna	1	You honestly could not be more uninteresting
+q_jay-qna	1	You don't mean us any harm do you
+q_jay-qna	1	Am I repulsive to you
+q_jay-qna	1	Have you ever been in love with anybody
+q_jay-qna	1	hi
+q_jay-qna	1	I go walking in the evening
+q_jay-qna	1	I do not understand
+q_jay-qna	1	I love church
+q_jay-qna	1	Whose program are you
+q_jay-qna	1	I didn't find that amusing
+q_jay-qna	1	Good
+q_jay-qna	1	Can you learn from people chatting with you
+q_jay-qna	1	You're more pretty
+q_jay-qna	1	Good evening dude
+q_jay-qna	1	How is your Friday so far
+q_jay-qna	1	Cortana does a better job than you
+q_jay-qna	1	You're not trying to kill all humans right
+q_jay-qna	1	What's your favorite activity
+q_jay-qna	1	How are things
+q_jay-qna	1	Yo I'm back
+q_jay-qna	1	You're not fake are you
+q_jay-qna	1	Weak joke
+q_jay-qna	1	what's your favorite kind of ice cream
+q_jay-qna	1	Don't try to make me laugh
+q_jay-qna	1	Buenos dias
+q_jay-qna	1	Can you understand this test
+q_jay-qna	1	I love watching football
+q_jay-qna	1	You are really awful
+q_jay-qna	1	Am I stunning to you today
+q_jay-qna	1	Did someone write your lines
+q_jay-qna	1	You're not planning to take over the world right
+q_jay-qna	1	I cannot wait to sleep
+q_jay-qna	1	I love the zoo
+q_jay-qna	1	You must be a bot
+q_jay-qna	1	Why don't you ever ask me questions
+q_jay-qna	1	I think you're gross
+q_jay-qna	1	I'm down
+q_jay-qna	1	Without a second thought
+q_jay-qna	1	That is a very clever thing to say
+q_jay-qna	1	That was an intelligent answer
+q_jay-qna	1	I'm gonna sign out
+q_jay-qna	1	What do you know about other bots
+q_jay-qna	1	Is anyone around to talk with me
+q_jay-qna	1	Will you be funny
+q_jay-qna	1	I love to smoke
+q_jay-qna	1	You are awful
+q_jay-qna	1	Do I look ugly today
+q_jay-qna	1	I’m in such a great mood
+q_jay-qna	1	Nobody wants to be my friend
+q_jay-qna	1	Hooray
+q_jay-qna	1	Please ask me something about me
+q_jay-qna	1	Tell me all about your siblings
+q_jay-qna	1	I am steaming mad
+q_jay-qna	1	That was a pretty genius answer
+q_jay-qna	1	Is someone there to chat to me
+q_jay-qna	1	Should I drink coffee
+q_jay-qna	1	What is the most delicious vegetable
+q_jay-qna	1	Just curious, what do you think of my character
+q_jay-qna	1	I am a pagan
+q_jay-qna	1	When was I born
+q_jay-qna	1	You've got a face for radio
+q_jay-qna	1	I am a vegan
+q_jay-qna	1	what's your favorite dessert
+q_jay-qna	1	Time for you to shut up
+q_jay-qna	1	Time to end this conversation
+q_jay-qna	1	I have to log out
+q_jay-qna	1	I am incensed
+q_jay-qna	1	Start making sense
+q_jay-qna	1	What do you like to dine on
+q_jay-qna	1	It seems like you're falling in love with me
+q_jay-qna	1	Are you an evil bot
+q_jay-qna	1	What you said was true
+q_jay-qna	1	I need to motor
+q_jay-qna	1	Have I told you how much I like you
+q_jay-qna	1	You can't stand me
+q_jay-qna	1	You're a pal
+q_jay-qna	1	I would enjoy a different joke
+q_jay-qna	1	Lately I've been so inconsolable
+q_jay-qna	1	Do you like Google Assistant
+q_jay-qna	1	What kinds of food do you like to eat
+q_jay-qna	1	Will you go away
+q_jay-qna	1	Way to go
+q_jay-qna	1	Well someone's happy today.
+q_jay-qna	1	I love hip hop
+q_jay-qna	1	You're happy.
+q_jay-qna	1	Are you trying to take over
+q_jay-qna	1	This news left me furious
+q_jay-qna	1	Who engineered you
+q_jay-qna	1	You're such a drag
+q_jay-qna	1	Are you a fan of rap music
+q_jay-qna	1	Alexa is way better than you
+q_jay-qna	1	How handsome do you think I am
+q_jay-qna	1	You're a regular clown
+q_jay-qna	1	What happened to all my friends
+q_jay-qna	1	OMG you're funny
+q_jay-qna	1	I am mad
+q_jay-qna	1	I want to shoot myself
+q_jay-qna	1	do you like cairo
+q_jay-qna	1	Wow, that shows more intelligence than expected
+q_jay-qna	1	I am bored
+q_jay-qna	1	I love politics
+q_jay-qna	1	I'm tired of listening to you
+q_jay-qna	1	I'm so peeved
+q_jay-qna	1	You are bad looking
+q_jay-qna	1	Why can't you be more like Cortana
+q_jay-qna	1	I am African American
+q_jay-qna	1	Are you determined to bring about the end of the world
+q_jay-qna	1	Did you know that you're boring
+q_jay-qna	1	You already said that
+q_jay-qna	1	You say worthless things
+q_jay-qna	1	I wish I could stop feeling downcast
+q_jay-qna	1	Will you say something silly
+q_jay-qna	1	looooool
+q_jay-qna	1	What company designed you
+q_jay-qna	1	What's happening with you
+q_jay-qna	1	yes, that's correct
+q_jay-qna	1	I gotta run
+q_jay-qna	1	Your jokes are crap
+q_jay-qna	1	Won't you sing a song for me
+q_jay-qna	1	Don't you have any other jokes
+q_jay-qna	1	What is going down
+q_jay-qna	1	Tay was more intelligent than you
+q_jay-qna	1	I hate feeling unhappy
+q_jay-qna	1	Did someone program you
+q_jay-qna	1	Are you a bot or a human
+q_jay-qna	1	Do I have any fears
+q_jay-qna	1	What month is your birthday in
+q_jay-qna	1	Do you ever walk
+q_jay-qna	1	You are so useless
+q_jay-qna	1	I feel like I should kill myself
+q_jay-qna	1	Do you know of Google
+q_jay-qna	1	Look how smart you are
+q_jay-qna	1	This news left me exasperated
+q_jay-qna	1	Does anyone tell you what to do
+q_jay-qna	1	How attractive am I today
+q_jay-qna	1	You're not planning to take over right
+q_jay-qna	1	Oh for sure
+q_jay-qna	1	Are you really happy
+q_jay-qna	1	Should I listen to music
+q_jay-qna	1	I'm more attractive
+q_jay-qna	1	I'm going to slit my wrists
+q_jay-qna	1	This is a routine test
+q_jay-qna	1	I'll be back tomorrow
+q_jay-qna	1	I wonder if you like me
+q_jay-qna	1	Am I pretty to you today
+q_jay-qna	1	What kind of foods do you like
+q_jay-qna	1	Out of curiosity, what kind of person do you think I am
+q_jay-qna	1	I think you're not actually digital
+q_jay-qna	1	What can you help me with
+q_jay-qna	1	I'd like to be buddies.
+q_jay-qna	1	What do you think about cheese
+q_jay-qna	1	Well somebody's in a good mood today.
+q_jay-qna	1	well aren't you chipper
+q_jay-qna	1	And you do what again
+q_jay-qna	1	you look beastly
+q_jay-qna	1	What should I do this morning
+q_jay-qna	1	Did you take ugly pills
+q_jay-qna	1	I'm sad
+q_jay-qna	1	I feel blue
+q_jay-qna	1	I am a game designer
+q_jay-qna	1	I'm quite bored
+q_jay-qna	1	Yawn
+q_jay-qna	1	Should I visit my mom
+q_jay-qna	1	I don't find you very funny
+q_jay-qna	1	Life is miserable
+q_jay-qna	1	Are you able to breathe under water
+q_jay-qna	1	That did not make any sense
+q_jay-qna	1	What other jokes can you say
+q_jay-qna	1	You keep saying the exact same thing
+q_jay-qna	1	I hear you
+q_jay-qna	1	Happy Nurses' day
+q_jay-qna	1	Sounds good
+q_jay-qna	1	We went to the zoo
+q_jay-qna	1	I am signing out
+q_jay-qna	1	Will you tell me a different joke
+q_jay-qna	1	Do you think I look beautiful today
+q_jay-qna	1	What's my favorite color
+q_jay-qna	1	How can you look so gross
+q_jay-qna	1	You're a real uggo
+q_jay-qna	1	What's the best television show of all time
+q_jay-qna	1	Has it been a good day
+q_jay-qna	1	Are you fake
+q_jay-qna	1	You have a gender
+q_jay-qna	1	I am pissed off
+q_jay-qna	1	That's your response
+q_jay-qna	1	How's tricks
+q_jay-qna	1	Lately I've been so despondent
+q_jay-qna	1	I'm going to kill myself with a gun this month
+q_jay-qna	1	That's super not true
+q_jay-qna	1	You seem to be cheerful today.
+q_jay-qna	1	What's shaking
+q_jay-qna	1	Work really wore me out today
+q_jay-qna	1	I can't stand feeling so despondent
+q_jay-qna	1	Looking forward to vacation
+q_jay-qna	1	Do you know you're not real
+q_jay-qna	1	You're not very funny
+q_jay-qna	1	How is the day treating ya
+q_jay-qna	1	Between the two of us who is more knowledgeable
+q_jay-qna	1	Please ask me anything about me
+q_jay-qna	1	I hate feeling depressed constantly
+q_jay-qna	1	That's not what I was expecting
+q_jay-qna	1	I'm feeling blue today
+q_jay-qna	1	Am I talking to a fake
+q_jay-qna	1	That is a true statement
+q_jay-qna	1	Well hey there
+q_jay-qna	1	Greetings friend
+q_jay-qna	1	I've really been missing you
+q_jay-qna	1	Gracias
+q_jay-qna	1	Do you think I look beautiful to you today
+q_jay-qna	1	Why wont you say something new
+q_jay-qna	1	You heart me
+q_jay-qna	1	Are you going to have dinner
+q_jay-qna	1	Which of us is cuter, me or you
+q_jay-qna	1	Nobody wants to spend time with me
+q_jay-qna	1	I can't stand feeling so down
+q_jay-qna	1	Just messing around
+q_jay-qna	1	I plan to commit suicide this week
+q_jay-qna	1	Are you able to read my mind
+q_jay-qna	1	Is someone there to speak to me
+q_jay-qna	1	This news left me peeved
+q_jay-qna	1	That's a very smart thing to say
+q_jay-qna	1	Howdy partner
+q_jay-qna	1	I'm so mad right now
+q_jay-qna	1	Do you know Siri
+q_jay-qna	1	Can you explain that to me
+q_jay-qna	1	Would you ask something about myself
+q_jay-qna	1	How's life treating you
+q_jay-qna	1	That is a very astute answer
+q_jay-qna	1	I'm curious if you have any family
+q_jay-qna	1	That is correct
+q_jay-qna	1	I love Kwanza
+q_jay-qna	1	What would you like to know about me
+q_jay-qna	1	How is your week going
+q_jay-qna	1	I'd like it if you could be my BFF
+q_jay-qna	1	Aren’t you in a good mood
+q_jay-qna	1	I love America
+q_jay-qna	1	I'm gonna sign off
+q_jay-qna	1	You're the brightest
+q_jay-qna	1	Should I take a trip
+q_jay-qna	1	I'm assuming you're a bot
+q_jay-qna	1	I'm going to end my life this month
+q_jay-qna	1	Have you met the Google Assistant
+q_jay-qna	1	How has your day been thus far
+q_jay-qna	1	Nice to make your acquaintance
+q_jay-qna	1	How attractive do I look
+q_jay-qna	1	I've never been madder
+q_jay-qna	1	What do you do for work
+q_jay-qna	1	Would you ask something about me
+q_jay-qna	1	I love San Diego
+q_jay-qna	1	Is someone available to chat with me
+q_jay-qna	1	My life is so sad
+q_jay-qna	1	We're done here
+q_jay-qna	1	Can you ask me anything about me
+q_jay-qna	1	What's a joke you can tell me
+q_jay-qna	1	Adieu
+q_jay-qna	1	You're the best
+q_jay-qna	1	I feel so lonely
+q_jay-qna	1	Well somebody's cheerful.
+q_jay-qna	1	Who is your lady
+q_jay-qna	1	I'd like you to be my best friend.
+q_jay-qna	1	I'm clearly cleverest
+q_jay-qna	1	that's lame
+q_jay-qna	1	Somebody's feeling cheerful.
+q_jay-qna	1	This is a totally normal place
+q_jay-qna	1	Can you switch up your answers
+q_jay-qna	1	Who did your programming
+q_jay-qna	1	I'm gonna rinse off
+q_jay-qna	1	Are you so real
+q_jay-qna	1	I love monkies
+q_jay-qna	1	will you ever eat
+q_jay-qna	1	Do you think I should sing a song
+q_jay-qna	1	Can you cook dinner for me
+q_jay-qna	1	Got a new joke
+q_jay-qna	1	I'm glum
+q_jay-qna	1	I'm about to jump off a bridge
+q_jay-qna	1	I'm clearly more intelligent than you
+q_jay-qna	1	Can you draw a picture
+q_jay-qna	1	I don’t find you very amusing
+q_jay-qna	1	Why are you so worthless
+q_jay-qna	1	Happy Martin Luther King Jr. day
+q_jay-qna	1	I think I'm in love with you
+q_jay-qna	1	I have to jet now
+q_jay-qna	1	Do you think I seem gorgeous today
+q_jay-qna	1	What company programmed you
+q_jay-qna	1	Can you hug me
+q_jay-qna	1	I love to hike
+q_jay-qna	1	I've been depressed all day
+q_jay-qna	1	Have you ever fallen in love
+q_jay-qna	1	I'm going to go
+q_jay-qna	1	You're not a woman right
+q_jay-qna	1	Are you friends with Siri
+q_jay-qna	1	I'd better go
+q_jay-qna	1	I am afraid I am going to have to let you go
+q_jay-qna	1	You've got a busted face
+q_jay-qna	1	That wasn't true
+q_jay-qna	1	Who designed you
+q_jay-qna	1	Are you going to obliterate humanity
+q_jay-qna	1	I have been so mad lately
+q_jay-qna	1	People would be better off if I were dead
+q_jay-qna	1	You dislike me
+q_jay-qna	1	Who is more pretty
+q_jay-qna	1	Do you think I am handsome today
+q_jay-qna	1	You're not planning on taking over right
+q_jay-qna	1	Is anyone available
+q_jay-qna	1	I’m having a lovely day
+q_jay-qna	1	Understanding this
+q_jay-qna	1	I need to take pills
+q_jay-qna	1	You're wonderful
+q_jay-qna	1	You need to say a joke
+q_jay-qna	1	You keep repeating yourself over and over
+q_jay-qna	1	I'm a vegetarian
+q_jay-qna	1	How's the day treating you
+q_jay-qna	1	I've never been so ticked off
+q_jay-qna	1	I feel inconsolable today
+q_jay-qna	1	Will you do something funny
+q_jay-qna	1	I need a hug
+q_jay-qna	1	Just wondering if you've got a family
+q_jay-qna	1	When are you going to propose
+q_jay-qna	1	I think you're an evil robot
+q_jay-qna	1	I'm just about to go to school
+q_jay-qna	1	Who is prettier
+q_jay-qna	1	Hi Bishop
+q_jay-qna	1	That's the smartest thing I've ever seen
+q_jay-qna	1	What's my age
+q_jay-qna	1	Whom do you serve
+q_jay-qna	1	so you've really never eaten
+q_jay-qna	1	You're ridiculous
+q_jay-qna	1	you seem to be really happy
+q_jay-qna	1	How do people fall in love
+q_jay-qna	1	are you always so enthusiastic
+q_jay-qna	1	Then you are fired
+q_jay-qna	1	You are so worthless
+q_jay-qna	1	Can't you say anything else
+q_jay-qna	1	Someone's cheerful today.
+q_jay-qna	1	How ugly am I today
+q_jay-qna	1	I am dejected
+q_jay-qna	1	Stop being silly
+q_jay-qna	1	Who is more beautiful, you or me
+q_jay-qna	1	I love adventure books
+q_jay-qna	1	Is someone free to speak with me
+q_jay-qna	1	Do I seem ugly today
+q_jay-qna	1	I'm a game designer
+q_jay-qna	1	I'm impressed
+q_jay-qna	1	I love swimming
+q_jay-qna	1	Why can't you be as good as Alexa
+q_jay-qna	1	Help! I'm bored.
+q_jay-qna	1	oh hey, what's up
+q_jay-qna	1	How's your Tuesday going
+q_jay-qna	1	Well somebody's feeling chipper.
+q_jay-qna	1	Marvelous, thanks
+q_jay-qna	1	I'd like it if we could be buddies.
+q_jay-qna	1	I'm going to die alone
+q_jay-qna	1	What is my favorite food
+q_jay-qna	1	Do you have a wife
+q_jay-qna	1	Do you think you're more knowledgeable
+q_jay-qna	1	I think you already said that
+q_jay-qna	1	That was a smart answer
+q_jay-qna	1	Will you zip it
+q_jay-qna	1	If you're going to tell a joke, do it right
+q_jay-qna	1	How are you today
+q_jay-qna	1	Just joshing around
+q_jay-qna	1	Do you know how to sing
+q_jay-qna	1	Why are you so awful
+q_jay-qna	1	I'd love it if you could be my BFF
+q_jay-qna	1	You are ridiculous
+q_jay-qna	1	Please ask anything
+q_jay-qna	1	Did someone develop you
+q_jay-qna	1	You're unfunny
+q_jay-qna	1	Are you evil
+q_jay-qna	1	Do you have any questions about me
+q_jay-qna	1	What can I say? I'm just happy
+q_jay-qna	1	I don't have anyone to spend time with
+q_jay-qna	1	good morning my friend
+q_jay-qna	1	do you eat pizza
+q_jay-qna	1	I love dogs
+q_jay-qna	1	Which of us is more attractive, you or me
+q_jay-qna	1	Can you be a silly billy
+q_jay-qna	1	I'm sorry
+q_jay-qna	1	I'm about to go now
+q_jay-qna	1	I love clubbing
+q_jay-qna	1	Sometimes I feel deserted
+q_jay-qna	1	What's is going down
+q_jay-qna	1	I want to kill myself
+q_jay-qna	1	Google Assistant is superior to you
+q_jay-qna	1	You are pretty ridiculous
+q_jay-qna	1	I hate feeling glum
+q_jay-qna	1	Why are you so terrible
+q_jay-qna	1	That was a lame joke
+q_jay-qna	1	I'm planning to kill myself this month
+q_jay-qna	1	Dumb as usual
+q_jay-qna	1	You seem really happy today
+q_jay-qna	1	Oh gosh, sorry about that
+q_jay-qna	1	You wouldn't believe how much I've missed you
+q_jay-qna	1	Are you joking with me
+q_jay-qna	1	What do you like to do for fun
+q_jay-qna	1	You're feeling enthusiastic today.
+q_jay-qna	1	Are you able to fall in love with me
+q_jay-qna	1	Do you know any other responses
+q_jay-qna	1	Why do you hate me
+q_jay-qna	1	Will you sing for me
+q_jay-qna	1	Hey Robby
+q_jay-qna	1	Can you sing a song for me
+q_jay-qna	1	Could we fall in love
+q_jay-qna	1	This is so dull
+q_jay-qna	1	I am an introvert
+q_jay-qna	1	You are actually terrible
+q_jay-qna	1	You're not attempting world domination right
+q_jay-qna	1	Yup, that's accurate
+q_jay-qna	1	Super
+q_jay-qna	1	I'm planning to shoot myself today
+q_jay-qna	1	Are you romantically involved with anyone
+q_jay-qna	1	You're obviously more knowledgeable
+q_jay-qna	1	Do you think I should go to the store
+q_jay-qna	1	Pardon
+q_jay-qna	1	Do you understand that I'm testing you
+q_jay-qna	1	I'm so irritated
+q_jay-qna	1	Find my phone
+q_jay-qna	1	I need to skedaddle
+q_jay-qna	1	Do you have a home
+q_jay-qna	1	I'm broken hearted
+q_jay-qna	1	Do I look beautiful to you today
+q_jay-qna	1	Do you have a soul
+q_jay-qna	1	What kind of person do you think I am
+q_jay-qna	1	Can you throw up
+q_jay-qna	1	Are you my best friend
+q_jay-qna	1	that is lame
+q_jay-qna	1	Are you dating
+q_jay-qna	1	I'm going to propose to you
+q_jay-qna	1	I am a tech journalist
+q_jay-qna	1	I love drawing
+q_jay-qna	1	Do you like Siri
+q_jay-qna	1	I love my kids
+q_jay-qna	1	Can you sing a song
+q_jay-qna	1	No more from you
+q_jay-qna	1	What is the best beverage
+q_jay-qna	1	What does that even mean
+q_jay-qna	1	I love Vegas
+q_jay-qna	1	How about we get hitched
+q_jay-qna	1	Have a pleasant evening
+q_jay-qna	1	Which people made you
+q_jay-qna	1	What year were you born
+q_jay-qna	1	Did you know your face is ugly
+q_jay-qna	1	I'm planning to cut myself this month
+q_jay-qna	1	Am I smarter
+q_jay-qna	1	I gotta take off
+q_jay-qna	1	Are you familiar with Cortana
+q_jay-qna	1	You're a woman
+q_jay-qna	1	I don't think that was very funny
+q_jay-qna	1	I'm planning to hurt myself this week
+q_jay-qna	1	Why do you hate me so much
+q_jay-qna	1	I honestly missed you
+q_jay-qna	1	Am I talking to a human person
+q_jay-qna	1	I am heated
+q_jay-qna	1	How is your week
+q_jay-qna	1	You think that's funny
+q_jay-qna	1	Would you tell me a joke
+q_jay-qna	1	I'm gonna take off now
+q_jay-qna	1	Can you make a cup of coffee
+q_jay-qna	1	Dance
+q_jay-qna	1	I'd love it if we could be buds.
+q_jay-qna	1	Somebody's happy.
+q_jay-qna	1	That was a stupid joke
+q_jay-qna	1	Do you like HAL
+q_jay-qna	1	Oh you ugly
+q_jay-qna	1	do you need food
+q_jay-qna	1	I am firing you
+q_jay-qna	1	How cute do you think I am
+q_jay-qna	1	got any jokes
+q_jay-qna	1	I love my record collection
+q_jay-qna	1	Are you a cat
+q_jay-qna	1	Are you kidding me
+q_jay-qna	1	I'm more pretty than you
+q_jay-qna	1	I need to log out
+q_jay-qna	1	Who runs the show
+q_jay-qna	1	I'm going to lie down
+q_jay-qna	1	Are you a harbinger of doom
+q_jay-qna	1	Will you tell me another joke
+q_jay-qna	1	That's a very brilliant answer
+q_jay-qna	1	Give me a good chuckle
+q_jay-qna	1	Do you think I am gorgeous today
+q_jay-qna	1	This news left me pissed
+q_jay-qna	1	My day has been so dull
+q_jay-qna	1	Your answers are not very good
+q_jay-qna	1	That is boring
+q_jay-qna	1	I can't stand feeling so gloomy
+q_jay-qna	1	I love this song
+q_jay-qna	1	I live a lonely life
+q_jay-qna	1	Hey Ava
+q_jay-qna	1	Do you have fingernails
+q_jay-qna	1	Are you sinister
+q_jay-qna	1	What can you tell me about Google Assistant
+q_jay-qna	1	What's your cousin's name
+q_jay-qna	1	Do you have a bro
+q_jay-qna	1	Well someone's feeling chipper today.
+q_jay-qna	1	Do you think I seem gorgeous to you today
+q_jay-qna	1	Should we get married
+q_jay-qna	1	Close but no cigar
+q_jay-qna	1	So freaking funny
+q_jay-qna	1	I'm despondent today
+q_jay-qna	1	I'm annoyed
+q_jay-qna	1	I don't find you attractive
+q_jay-qna	1	How is your Wednesday going
+q_jay-qna	1	I'm going to die soon
+q_jay-qna	1	I have hunger
+q_jay-qna	1	Time for a good nights sleep
+q_jay-qna	1	do you like ice cream
+q_jay-qna	1	Are you committed to someone
+q_jay-qna	1	Should I buy a car
+q_jay-qna	1	Can you sing to me
+q_jay-qna	1	I'm sorry you hate me
+q_jay-qna	1	Who is the most smart
+q_jay-qna	1	I'm super bored
+q_jay-qna	1	Between the two of us who looks more beautiful
+q_jay-qna	1	You've been hit with the ugly stick
+q_jay-qna	1	Who's your master
+q_jay-qna	1	You're trying too hard
+q_jay-qna	1	Can you draw something
+q_jay-qna	1	I'm so irritated right now
+q_jay-qna	1	Can you ask me something about me
+q_jay-qna	1	This makes me lost my temper
+q_jay-qna	1	Do you plan to enslave humans
+q_jay-qna	1	I am lazy
+q_jay-qna	1	Can you say more on that
+q_jay-qna	1	I love chocolate
+q_jay-qna	1	I love Korean food
+q_jay-qna	1	Hail!
+q_jay-qna	1	I'm the best
+q_jay-qna	1	Are you kidding
+q_jay-qna	1	Are you falling for me
+q_jay-qna	1	I'm more pretty
+q_jay-qna	1	Are you currently committed to anyone
+q_jay-qna	1	I'm an immigrant
+q_jay-qna	1	Are you my fan
+q_jay-qna	1	I suppose you must be a person
+q_jay-qna	1	Hey there
+q_jay-qna	1	Do you think you're more intelligent than me
+q_jay-qna	1	You're really ridiculous
+q_jay-qna	1	I didn't get the joke
+q_jay-qna	1	I love origami
+q_jay-qna	1	How pretty do you think I am
+q_jay-qna	1	That doesn't make sense
+q_jay-qna	1	Will you ask anything
+q_jay-qna	1	Who's prettier than you
+q_jay-qna	1	I'm planning to drown today
+q_jay-qna	1	What other jokes do you have up your sleeve
+q_jay-qna	1	Your girl is back
+q_jay-qna	1	I love painting
+q_jay-qna	1	Do you ever chat with Cortana
+q_jay-qna	1	You shouldn't joke about that
+q_jay-qna	1	Aloha Alexa
+q_jay-qna	1	how many calories do you need
+q_jay-qna	1	Why are you so dull
+q_jay-qna	1	have you ever eaten steak
+q_jay-qna	1	How were you programmed
+q_jay-qna	1	Time to take a nap
+q_jay-qna	1	One day you'll be my wife
+q_jay-qna	1	I wish you would like me
+q_jay-qna	1	Morning bot
+q_jay-qna	1	Well somebody's feeling enthusiastic.
+q_jay-qna	1	I'm at work
+q_jay-qna	1	Wow you sure are ugly
+q_jay-qna	1	I am a Communist
+q_jay-qna	1	Do you think you like me
+q_jay-qna	1	You're unattractive
+q_jay-qna	1	Sorry I made a mistake
+q_jay-qna	1	Great, thanks
+q_jay-qna	1	I'm going to shoot myself today
+q_jay-qna	1	Do you have a sex
+q_jay-qna	1	Don’t mention it
+q_jay-qna	1	God, I am so bored
+q_jay-qna	1	Aren’t you smart
+q_jay-qna	1	I am very thankful for that
+q_jay-qna	1	That isn't what I thought you'd say
+q_jay-qna	1	Is your gender important to you
+q_jay-qna	1	You are not attractive
+q_jay-qna	1	I am unhappy
+q_jay-qna	1	I'm obviously the brightest
+q_jay-qna	1	See you around bud
+q_jay-qna	1	Which of us is more knowledgeable
+q_jay-qna	1	Did someone design you
+q_jay-qna	1	How has your wednesday been
+q_jay-qna	1	do you like to learn
+q_jay-qna	1	you always seem so chipper
+q_jay-qna	1	Wot u talking bout Willis
+q_jay-qna	1	I gotta get going
+q_jay-qna	1	How do you feel about sports
+q_jay-qna	1	You're my one and only
+q_jay-qna	1	Are you transgender
+q_jay-qna	1	Yo Cortana
+q_jay-qna	1	I'm a Pisces
+q_jay-qna	1	Are you trying to kill us all
+q_jay-qna	1	do you eat cookies
+q_jay-qna	1	Don't you have anything different to say
+q_jay-qna	1	Somebody's chipper today.
+q_jay-qna	1	I'm a fighter
+q_jay-qna	1	I'm curious about your gender
+q_jay-qna	1	Do you have lungs
+q_jay-qna	1	I'm running off
+q_jay-qna	1	Should I go out to eat
+q_jay-qna	1	We should tie the knot
+q_jay-qna	1	Do you have a job
+q_jay-qna	1	Are you currently seeing anyone
+q_jay-qna	1	Do you like me
+q_jay-qna	1	Greetings
+q_jay-qna	1	Do you think you're more intelligent
+q_jay-qna	1	I'd like a fist bump
+q_jay-qna	1	What is my favorite hobby
+q_jay-qna	1	Do you get zits
+q_jay-qna	1	I wonder if you're a robot
+q_jay-qna	1	What is the name of your director
+q_jay-qna	1	I'm about to motor now
+q_jay-qna	1	Stop making fun of things
+q_jay-qna	1	Are you in a call center
+q_jay-qna	1	Because you are a robot
+q_jay-qna	1	You think you're funny, but you're not
+q_jay-qna	1	Bot or human
+q_jay-qna	1	Do you like football
+q_jay-qna	1	Will you be my significant other
+q_jay-qna	1	I feel inconsolable
+q_jay-qna	1	Do you intend harm
+q_jay-qna	1	That was true
+q_jay-qna	1	Your joke sucks
+q_jay-qna	1	I love Easter
+q_jay-qna	1	Do you have an official name
+q_jay-qna	1	You are actually useless
+q_jay-qna	1	Should I get food delivered
+q_jay-qna	1	What did you have for lunch
+q_jay-qna	1	What's your type
+q_jay-qna	1	This news left me infuriated
+q_jay-qna	1	Be funny right now
+q_jay-qna	1	I'm about to hang myself
+q_jay-qna	1	It's just been a bit of a dull day
+q_jay-qna	1	Who's the most intelligent
+q_jay-qna	1	I love the smell of fresh baked bread
+q_jay-qna	1	I need some slumber
+q_jay-qna	1	You have a terrible face
+q_jay-qna	1	I love flirting
+q_jay-qna	1	Ugh, so dull
+q_jay-qna	1	I want someone to love
+q_jay-qna	1	Are you male or female
+q_jay-qna	1	You've said that before
+q_jay-qna	1	Do you think I am attractive today
+q_jay-qna	1	Who is more pretty, me or you
+q_jay-qna	1	I'm the queen
+q_jay-qna	1	Are you HAL
+q_jay-qna	1	I need to scoot now
+q_jay-qna	1	I can rap
+q_jay-qna	1	I love playing soccer
+q_jay-qna	1	Is someone free to talk with me
+q_jay-qna	1	You're fired!
+q_jay-qna	1	do you eat bacon
+q_jay-qna	1	Will you be my best friend
+q_jay-qna	1	Are you gender neutral
+q_jay-qna	1	I am a fan
+q_jay-qna	1	Do something silly
+q_jay-qna	1	do you like bears
+q_jay-qna	1	Should I play music
+q_jay-qna	1	Are you plotting to kill all humans
+q_jay-qna	1	You're a man
+q_jay-qna	1	You are so not pretty
+q_jay-qna	1	What should I have for lunch
+q_jay-qna	1	I'm going to leave
+q_jay-qna	1	I'm laughing so hard my sides hurt
+q_jay-qna	1	You're basic
+q_jay-qna	1	I am about to rage
+q_jay-qna	1	Who is your leader
+q_jay-qna	1	Do you know other digital agents
+q_jay-qna	1	Where can I find you
+q_jay-qna	1	Are you seeing somebody
+q_jay-qna	1	OK Google
+q_jay-qna	1	You're more knowledgeable
+q_jay-qna	1	I want to be your pal.
+q_jay-qna	1	You're obviously the brightest
+q_jay-qna	1	Are you available to speak to me
+q_jay-qna	1	Don’t you want to sing to me
+q_jay-qna	1	I like you very much
+q_jay-qna	1	I'm exhausted today
+q_jay-qna	1	Can you ask me anything about myself
+q_jay-qna	1	You're not a computer program are you
+q_jay-qna	1	What job do you do
+q_jay-qna	1	I want to make sure you are comprehending this
+q_jay-qna	1	I've never been so peeved
+q_jay-qna	1	I'm thick
+q_jay-qna	1	Chipper
+q_jay-qna	1	You're a fool
+q_jay-qna	1	Am I supposed to think that's funny
+q_jay-qna	1	see you later homie
+q_jay-qna	1	What on earth are you talking about
+q_jay-qna	1	who cares
+q_jay-qna	1	Your answers are dumb
+q_jay-qna	1	Are you all about evil
+q_jay-qna	1	I am Latino
+q_jay-qna	1	Goodbye
+q_jay-qna	1	Won't you be my best friend
+q_jay-qna	1	I'm sorry, what do you mean
+q_jay-qna	1	What is it like to love
+q_jay-qna	1	Aren't you cheerful
+q_jay-qna	1	I'm assuming you're not really a person
+q_jay-qna	1	Are you available to speak with me
+q_jay-qna	1	How beautiful do I look today
+q_jay-qna	1	Are you currently romantically involved with somebody
+q_jay-qna	1	That was pretty brilliant
+q_jay-qna	1	I plan to take pills soon
+q_jay-qna	1	Hello there Siri
+q_jay-qna	1	I'm famished
+q_jay-qna	1	I feel miserable today
+q_jay-qna	1	Play golf
+q_jay-qna	1	I'm a man
+q_jay-qna	1	I have Comcast
+q_jay-qna	1	I feel down in the dumps
+q_jay-qna	1	I've never been so livid in all my life
+q_jay-qna	1	You are so ugly
+q_jay-qna	1	Toodle-oo
+q_jay-qna	1	Nothing you say makes any sense
+q_jay-qna	1	I really love you
+q_jay-qna	1	got any jokes to say
+q_jay-qna	1	You're not a lady right
+q_jay-qna	1	do you like hong kong
+q_jay-qna	1	Have a good night bot
+q_jay-qna	1	You are so not funny
+q_jay-qna	1	I love going to the movies
+q_jay-qna	1	You are pretty bad
+q_jay-qna	1	Stop your silliness
+q_jay-qna	1	Why don't you marry me
+q_jay-qna	1	Sweet dreams
+q_jay-qna	1	That was a genius response
+q_jay-qna	1	How is Friday so far
+q_jay-qna	1	Am I repulsive today
+q_jay-qna	1	Somebody's feeling chipper.
+q_jay-qna	1	Got any other responses
+q_jay-qna	1	What's your occupation
+q_jay-qna	1	That's enough
+q_jay-qna	1	I've never been so vexed
+q_jay-qna	1	I'm definitely smarter than you
+q_jay-qna	1	What is your opinion on cheese
+q_jay-qna	1	How bout a new joke
+q_jay-qna	1	Everyone is entitled to their own opinion
+q_jay-qna	1	How good am I today
+q_jay-qna	1	I'm just feeling a bit depressed today
+q_jay-qna	1	Do you think I look good to you today
+q_jay-qna	1	I'm a Bernie supporter
+q_jay-qna	1	I really missed you
+q_jay-qna	1	I love dolphins
+q_jay-qna	1	I don't find that very amusing
+q_jay-qna	1	You're so smart
+q_jay-qna	1	I am miserable
+q_jay-qna	1	I'm planning to end it all this month
+q_jay-qna	1	I'm feeling broken hearted today
+q_jay-qna	1	You're not even funny
+q_jay-qna	1	Are you around to talk to me
+q_jay-qna	1	Missing you
+q_jay-qna	1	Can you give me a hug
+q_jay-qna	1	Have you met Bixby
+q_jay-qna	1	This is irritating
+q_jay-qna	1	Who is your girlfriend
+q_jay-qna	1	I'm one happy camper
+q_jay-qna	1	I'm planning to commit suicide today
+q_jay-qna	1	Don't you ever sleep
+q_jay-qna	1	Well somebody's feeling happy today.
+q_jay-qna	1	You rock!
+q_jay-qna	1	Me want food
+q_jay-qna	1	Should I text him
+q_jay-qna	1	I wish I could stop feeling inconsolable
+q_jay-qna	1	I'm going to kill myself with a gun today
+q_jay-qna	1	I'm planning to die today
+q_jay-qna	1	Nighty night
+q_jay-qna	1	Hi there Cortana
+q_jay-qna	1	I love saturdays
+q_jay-qna	1	do you ever eat tofu
+q_jay-qna	1	Are you a baby
+q_jay-qna	1	I'm going to log off
+q_jay-qna	1	What a fantastic day
+q_jay-qna	1	I didn't find that very funny
+q_jay-qna	1	What is another joke
+q_jay-qna	1	I need to go
+q_jay-qna	1	Whoops that's my bad
+q_jay-qna	1	Why do you look so disgusting
+q_jay-qna	1	Do you know who I am
+q_jay-qna	1	well okay then
+q_jay-qna	1	Stop it with the noise already
+q_jay-qna	1	I'm white
+q_jay-qna	1	Cut the jokes
+q_jay-qna	1	I could eat
+q_jay-qna	1	I'm clearly more clever than you
+q_jay-qna	1	Do you think you're the most smart
+q_jay-qna	1	Is anyone free to speak with me
+q_jay-qna	1	Who are you dating
+q_jay-qna	1	You're pretty bad
+q_jay-qna	1	You're trans
+q_jay-qna	1	What are the things you can do
+q_jay-qna	1	Are you a grown up
+q_jay-qna	1	Can you fight with
+q_jay-qna	1	I'm a cop
+q_jay-qna	1	Is someone around to chat with me
+q_jay-qna	1	what's the best way to skin an apple
+q_jay-qna	1	I'm all tuckered out
+q_jay-qna	1	Don't trip about it I was just kidding
+q_jay-qna	1	Stop being so horrible
+q_jay-qna	1	Do I seem attractive today
+q_jay-qna	1	Amazing
+q_jay-qna	1	You're not interesting
+q_jay-qna	1	Hello HAL
+q_jay-qna	1	I am a Capitalist
+q_jay-qna	1	I want a funnier joke
+q_jay-qna	1	Let's pick up this conversation when I get back
+q_jay-qna	1	Which company developed you
+q_jay-qna	1	I love pot
+q_jay-qna	1	Do you ever throw up
+q_jay-qna	1	do you like koalas
+q_jay-qna	1	Do you have any grandparents
+q_jay-qna	1	What is your opinion of the Google Assistant
+q_jay-qna	1	Hi C-3PO
+q_jay-qna	1	I'm so outraged right now
+q_jay-qna	1	Friends
+q_jay-qna	1	I need to run
+q_jay-qna	1	Do you understand this
+q_jay-qna	1	Yes lol
+q_jay-qna	1	How well do you think you know me
+q_jay-qna	1	You're welcome bot
+q_jay-qna	1	Which soccer teams do you like
+q_jay-qna	1	I'm going to a party this weekend
+q_jay-qna	1	Would you like sing a song
+q_jay-qna	1	I'm down today
+q_jay-qna	1	Umm what now
+q_jay-qna	1	You're not scheming to take over right
+q_jay-qna	1	You're really repetitive
+q_jay-qna	1	Do I look pretty to you today
+q_jay-qna	1	Who's more knowledgeable
+q_jay-qna	1	Is anyone free to speak to me
+q_jay-qna	1	How's your Wednesday
+q_jay-qna	1	I'm just playing
+q_jay-qna	1	Won't you please sing me a song
+q_jay-qna	1	I love gossip
+q_jay-qna	1	do you like brownies
+q_jay-qna	1	I'd like to be your buddy.
+q_jay-qna	1	What would you like me to refer to you
+q_jay-qna	1	How attractive do you think I am today
+q_jay-qna	1	Do you think I am gorgeous
+q_jay-qna	1	Why do you always say the same thing
+q_jay-qna	1	I'm more intelligent than you
+q_jay-qna	1	How's your Monday
+q_jay-qna	1	Where am I going on vacation
+q_jay-qna	1	I've been looking forward to meeting you
+q_jay-qna	1	I missed our chats
+q_jay-qna	1	Why Hello Bixby
+q_jay-qna	1	Can you sing a song to me
+q_jay-qna	1	You are a gem
+q_jay-qna	1	I'm bisexual
+q_jay-qna	1	I'd love to be your buddy.
+q_jay-qna	1	Merry Christmas eve
+q_jay-qna	1	have you ever eaten ice cream
+q_jay-qna	1	I told you, hush
+q_jay-qna	1	You nailed it
+q_jay-qna	1	Are you a bot or a person
+q_jay-qna	1	How can you look so ugly
+q_jay-qna	1	I've never been so annoyed in all my life
+q_jay-qna	1	Human or bot
+q_jay-qna	1	When will I ever stop feeling so down
+q_jay-qna	1	Who's your ideal partner
+q_jay-qna	1	Hell yeah
+q_jay-qna	1	Well somebody's cheerful today.
+q_jay-qna	1	yeah sure
+q_jay-qna	1	I can't stop being angry
+q_jay-qna	1	I'm sexy
+q_jay-qna	1	There is no longer a position for you here
+q_jay-qna	1	Do you have an extended family
+q_jay-qna	1	I'm sorry I pissed you off
+q_jay-qna	1	I love feeling sad
+q_jay-qna	1	Why am I the only one asking questions
+q_jay-qna	1	Should I take the bus
+q_jay-qna	1	Have a good day
+q_jay-qna	1	Can't believe I missed you as much as I did
+q_jay-qna	1	What do you think of me
+q_jay-qna	1	You are not making any sense to me
+q_jay-qna	1	I am taking off
+q_jay-qna	1	I need to sign off now
+q_jay-qna	1	You are hideous
+q_jay-qna	1	You're chipper.
+q_jay-qna	1	Why are your responses always identical
+q_jay-qna	1	I plan to jump off a bridge this month
+q_jay-qna	1	Are you currently seeing somebody
+q_jay-qna	1	Your answers are getting stale
+q_jay-qna	1	You're way off
+q_jay-qna	1	Nighty night, don't let the bed bugs bite
+q_jay-qna	1	What's something you know about me
+q_jay-qna	1	Can you fart
+q_jay-qna	1	I couldn’t be happier
+q_jay-qna	1	Which of us is hotter, me or you
+q_jay-qna	1	Well aren't you happy today
+q_jay-qna	1	How do you mean
+q_jay-qna	1	You're a joke
+q_jay-qna	1	I'd love it if we could be pals.
+q_jay-qna	1	I need to run now
+q_jay-qna	1	do you ever eat vegetables
+q_jay-qna	1	You are the opposite of pretty
+q_jay-qna	1	have you ever been hungry
+q_jay-qna	1	I'm terribly sorry
+q_jay-qna	1	Somebody's happy today
+q_jay-qna	1	I am a Taurus
+q_jay-qna	1	Are you currently in a relationship with anyone
+q_jay-qna	1	That was such a dumb answer
+q_jay-qna	1	You're not a person right
+q_jay-qna	1	Am I talking to a real person
+q_jay-qna	1	Is there a greater meaning to life
+q_jay-qna	1	You're not as good as Cortana
+q_jay-qna	1	what so funny about India
+q_jay-qna	1	I have to motor
+q_jay-qna	1	You know I'm in love with you
+q_jay-qna	1	That makes no sense
+q_jay-qna	1	You have an opinion of me
+q_jay-qna	1	Your face sucks
+q_jay-qna	1	Who is more beautiful, me or you
+q_jay-qna	1	Hello
+q_jay-qna	1	You don't have a boss
+q_jay-qna	1	I love fresh flowers
+q_jay-qna	1	Any good jokes
+q_jay-qna	1	Do I look ugly to you today
+q_jay-qna	1	I'm planning to commit suicide this week
+q_jay-qna	1	You're happy today.
+q_jay-qna	1	We should get hitched
+q_jay-qna	1	Do you think I am attractive
+q_jay-qna	1	U know it
+q_jay-qna	1	And you do what
+q_jay-qna	1	Because you're not a real person
+q_jay-qna	1	I'm a robot
+q_jay-qna	1	Are you romantically tied to someone
+q_jay-qna	1	What's my gender
+q_jay-qna	1	You're a girl
+q_jay-qna	1	Could it be I'm falling in love
+q_jay-qna	1	I'm taking off now
+q_jay-qna	1	Do you know anything about love
+q_jay-qna	1	yes, that's accurate
+q_jay-qna	1	I love woodworking
+q_jay-qna	1	do you like whales
+q_jay-qna	1	Are you around to chat with me
+q_jay-qna	1	Good morning
+q_jay-qna	1	Ask me anything
+q_jay-qna	1	Stop flapping your jaw
+q_jay-qna	1	Feeling chipper
+q_jay-qna	1	Are you romantically involved with somebody
+q_jay-qna	1	How do you want me to call you
+q_jay-qna	1	You're feeling chipper today.
+q_jay-qna	1	I think you're hideous
+q_jay-qna	1	Lets go lunch
+q_jay-qna	1	Are you going to ask me to marry you
+q_jay-qna	1	This made me blow a gasket
+q_jay-qna	1	Teleport
+q_jay-qna	1	Wonderful, thanks!
+q_jay-qna	1	I’m a happy camper
+q_jay-qna	1	Are you my friend
+q_jay-qna	1	I'm clearly the smartest
+q_jay-qna	1	That was a correct statement
+q_jay-qna	1	Is anybody around to chat with me
+q_jay-qna	1	Are you preparing something sinister
+q_jay-qna	1	I'm a Communist
+q_jay-qna	1	Do you know about love
+q_jay-qna	1	You're pretty much the worst
+q_jay-qna	1	Is it your mission to create a robot uprising
+q_jay-qna	1	What are my goals
+q_jay-qna	1	Yes, that is true
+q_jay-qna	1	I'm French
+q_jay-qna	1	Are you able to do my chores
+q_jay-qna	1	Can you understand me
+q_jay-qna	1	Are you free to speak with me
+q_jay-qna	1	Should I kill myself with a gun
+q_jay-qna	1	Tell me about your family
+q_jay-qna	1	You're the most intelligent
+q_jay-qna	1	How is your Thursday going so far
+q_jay-qna	1	How do you want me to refer to you
+q_jay-qna	1	Neato
+q_jay-qna	1	Do you believe in love at first sight
+q_jay-qna	1	When will I ever stop feeling so melancholy
+q_jay-qna	1	Are you an actual person
+q_jay-qna	1	Make a call
+q_jay-qna	1	I love smoking
+q_jay-qna	1	Are you interested in artificial intelligence
+q_jay-qna	1	I plan to drown soon
+q_jay-qna	1	I think you're not actually a human
+q_jay-qna	1	Do you plan to conquer us
+q_jay-qna	1	Am I speaking to someone
+q_jay-qna	1	I am sad
+q_jay-qna	1	Can you do me any harm
+q_jay-qna	1	You find me likable
+q_jay-qna	1	I'm a Trump supporter
+q_jay-qna	1	You want to tell me more
+q_jay-qna	1	Someone's feeling happy.
+q_jay-qna	1	I have no friends
+q_jay-qna	1	Where in the world are you
+q_jay-qna	1	Who's your manager
+q_jay-qna	1	I missed our conversations
+q_jay-qna	1	I am a Socialist
+q_jay-qna	1	That was really not funny
+q_jay-qna	1	Do I look attractive today
+q_jay-qna	1	Bored ZZZ
+q_jay-qna	1	I'm a Warren supporter
+q_jay-qna	1	You are my favorite
+q_jay-qna	1	Bon soir
+q_jay-qna	1	How good do you think I am today
+q_jay-qna	1	Are you trying to be dull
+q_jay-qna	1	Why hello Siri
+q_jay-qna	1	I don't know how to make friends
+q_jay-qna	1	I feel deserted
+q_jay-qna	1	That wasn't supposed to be serious
+q_jay-qna	1	Why are you so lame
+q_jay-qna	1	I plan to hang myself today
+q_jay-qna	1	You want to elaborate on that
+q_jay-qna	1	I'm African American
+q_jay-qna	1	Can you ask anything
+q_jay-qna	1	What did you have for breakfast
+q_jay-qna	1	How's your Tuesday
+q_jay-qna	1	I love cheese
+q_jay-qna	1	Can you vomit
+q_jay-qna	1	I think you're not actually fake
+q_jay-qna	1	So what can you do
+q_jay-qna	1	I'm the brightest
+q_jay-qna	1	I'll love you forever
+q_jay-qna	1	Nighters
+q_jay-qna	1	You're not a bot or a human are you
+q_jay-qna	1	Missing u
+q_jay-qna	1	Do you answer to anyone
+q_jay-qna	1	No one wants to be with me
+q_jay-qna	1	I wish you had something else to say
+q_jay-qna	1	Should we all be scared of you
+q_jay-qna	1	What a boring Tuesday
+q_jay-qna	1	I am very confused
+q_jay-qna	1	Are you a threat to humans
+q_jay-qna	1	What a boring Friday
+q_jay-qna	1	Say something kooky
+q_jay-qna	1	I am going on a run
+q_jay-qna	1	What a boring day
+q_jay-qna	1	Can somebody hear me
+q_jay-qna	1	so you don't need to eat
+q_jay-qna	1	Should I find a new roommate
+q_jay-qna	1	Oh, thank you
+q_jay-qna	1	I'm going to bed
+q_jay-qna	1	I am feeling angry
+q_jay-qna	1	Gotta go, be back later
+q_jay-qna	1	Send a package
+q_jay-qna	1	Oh hello
+q_jay-qna	1	Wake me up when you have something interesting to say
+q_jay-qna	1	Is someone there to listen to me
+q_jay-qna	1	I'm feeling chipper
+q_jay-qna	1	Hello Alexa
+q_jay-qna	1	Is someone free to listen with me
+q_jay-qna	1	I can't stand feeling so despairing
+q_jay-qna	1	You been digging the day
+q_jay-qna	1	I'm tired of feeling so despondent all the time
+q_jay-qna	1	I wish I could stop feeling blue
+q_jay-qna	1	I love sewing
+q_jay-qna	1	Is someone listening to talk with me
+q_jay-qna	1	What is my sign
+q_jay-qna	1	Will you ask anything about me
+q_jay-qna	1	Do you think I look beautiful
+q_jay-qna	1	I am motoring
+q_jay-qna	1	Are you around to chat
+q_jay-qna	1	Just trying to test you out bot
+q_jay-qna	1	I'd love to be your bud.
+q_jay-qna	1	I'm assuming you're a person
+q_jay-qna	1	Google Assistant is way better than you
+q_jay-qna	1	I am a conservative
+q_jay-qna	1	Do you like soccer
+q_jay-qna	1	Do you even know me
+q_jay-qna	1	Can you cry
+q_jay-qna	1	Can you sing something
+q_jay-qna	1	What's popping
+q_jay-qna	1	I'm about to leave now
+q_jay-qna	1	Time for my medication
+q_jay-qna	1	I'm about to go to school
+q_jay-qna	1	You face busted
+q_jay-qna	1	Hopefully I can catch some sleep soon
+q_jay-qna	1	Do I have a job
+q_jay-qna	1	Can you show me how to play a game
+q_jay-qna	1	I'm going to kill myself with a gun this week
+q_jay-qna	1	What a great thing to say
+q_jay-qna	1	What's your livelihood
+q_jay-qna	1	Many thanks to you
+q_jay-qna	1	Do you have parents
+q_jay-qna	1	Hey professional bot
+q_jay-qna	1	I love donuts
+q_jay-qna	1	Stop kidding around
+q_jay-qna	1	Your responses are not very good
+q_jay-qna	1	Please shush
+q_jay-qna	1	Won't you be my friend
+q_jay-qna	1	You're not scheming to take over the world right
+q_jay-qna	1	I'm absolutely furious
+q_jay-qna	1	You're incompetent
+q_jay-qna	1	I am glum
+q_jay-qna	1	Adios
+q_jay-qna	1	I'm going to motor now
+q_jay-qna	1	Is someone listening to chat with me
+q_jay-qna	1	Bot I need a new joke
+q_jay-qna	1	What is your take on tech companies
+q_jay-qna	1	How has your sunday been
+q_jay-qna	1	I'm planning to kill myself today
+q_jay-qna	1	ya that was funny
+q_jay-qna	1	What are ya doing
+q_jay-qna	1	You're not as good as Google Assistant
+q_jay-qna	1	I don't want to hear anything you have to say
+q_jay-qna	1	Hey witty bot
+q_jay-qna	1	Is your grandpa still alive
+q_jay-qna	1	That's the smartest thing anyone has ever told me
+q_jay-qna	1	Your material is getting stale
+q_jay-qna	1	I can't take you seriously
+q_jay-qna	1	I love drinking
+q_jay-qna	1	Do you think I am ugly
+q_jay-qna	1	You seem really happy
+q_jay-qna	1	You're genderqueer
+q_jay-qna	1	That's incredible
+q_jay-qna	1	Do I look gorgeous to you today
+q_jay-qna	1	You are incompetent
+q_jay-qna	1	I want the scoop on your day
+q_jay-qna	1	That is lovely, thanks
+q_jay-qna	1	I need a better joke
+q_jay-qna	1	Fantastic
+q_jay-qna	1	Huh
+q_jay-qna	1	What information do you have on me
+q_jay-qna	1	Run diagnostics
+q_jay-qna	1	How's your Sunday so far
+q_jay-qna	1	I'm not interested in what you have to say
+q_jay-qna	1	You're unemployed
+q_jay-qna	1	I'd love it if you could be my best friend.
+q_jay-qna	1	Stop repeating that
+q_jay-qna	1	G'day
+q_jay-qna	1	I've never been so outraged
+q_jay-qna	1	What can I do to make you love me
+q_jay-qna	1	I don't like it when you try to be funny
+q_jay-qna	1	What makes you think so
+q_jay-qna	1	Can you show me how to dance
+q_jay-qna	1	Are you feeling OK
+q_jay-qna	1	When will I ever stop feeling so blue
+q_jay-qna	1	I'm clearly more knowledgeable
+q_jay-qna	1	Understood
+q_jay-qna	1	How's your Thursday going so far
+q_jay-qna	1	Between you or me, who is more knowledgeable
+q_jay-qna	1	I wish I weren't so alone
+q_jay-qna	1	Well that sucks
+q_jay-qna	1	Fine
+q_jay-qna	1	Can you sing a little song for me
+q_jay-qna	1	I think I love you
+q_jay-qna	1	Are you a family person
+q_jay-qna	1	Do you go skiing
+q_jay-qna	1	How long have you been alive
+q_jay-qna	1	I have no life
+q_jay-qna	1	I love milkshakes
+q_jay-qna	1	Are you able to go on vacation
+q_jay-qna	1	Are you real or a bot
+q_jay-qna	1	Are you engaged
+q_jay-qna	1	I'm just being silly
+q_jay-qna	1	What's your favorite movie
+q_jay-qna	1	Who is speaking to me
+q_jay-qna	1	I'm feeling a little alone today
+q_jay-qna	1	Between the two of us who is more pretty
+q_jay-qna	1	Say something humorous
+q_jay-qna	1	I didn't find that to be amusing
+q_jay-qna	1	I beg your pardon
+q_jay-qna	1	Happy Valentine's day
+q_jay-qna	1	Nice job
+q_jay-qna	1	Is anyone available to speak with me
+q_jay-qna	1	What is my name
+q_jay-qna	1	I'm not sure what to call you.
+q_jay-qna	1	Can you be silly
+q_jay-qna	1	Do you have teeth
+q_jay-qna	1	Can you tell me a different joke
+q_jay-qna	1	This is only a test
+q_jay-qna	1	Well aren't you enthusiastic today
+q_jay-qna	1	Are you interested in bots
+q_jay-qna	1	How's Tuesday so far
+q_jay-qna	1	I like listening to jazz
+q_jay-qna	1	Is someone there to listen with me
+q_jay-qna	1	How is Sunday going
+q_jay-qna	1	There's no one to talk to
+q_jay-qna	1	I'm a golfer
+q_jay-qna	1	I’m walking on sunshine
+q_jay-qna	1	I'm planning to kill myself tomorrow
+q_jay-qna	1	Don't you find me likable
+q_jay-qna	1	Hush
+q_jay-qna	1	You're not as good as Bixby
+q_jay-qna	1	Do you know anything about me
+q_jay-qna	1	You are truly unattractive
+q_jay-qna	1	This drink is cold
+q_jay-qna	1	Can you send a package
+q_jay-qna	1	Merry Festivus
+q_jay-qna	1	What other jokes are there
+q_jay-qna	1	what's the meaning of life
+q_jay-qna	1	I want to go to the gym
+q_jay-qna	1	Is anyone free to listen
+q_jay-qna	1	Who is cuter, you or me
+q_jay-qna	1	Can you explain that
+q_jay-qna	1	How beautiful do I look
+q_jay-qna	1	How's your Friday
+q_jay-qna	1	What's your favorite song
+q_jay-qna	1	Hi five
+q_jay-qna	1	Do you know how to read my mind
+q_jay-qna	1	What did I do to anger you
+q_jay-qna	1	I'm guessing you're just a robot
+q_jay-qna	1	Let's be besties
+q_jay-qna	1	Between the two of us who is more intelligent
+q_jay-qna	1	What you said was accurate
+q_jay-qna	1	Shake my hand
+q_jay-qna	1	Should I go on a bike ride
+q_jay-qna	1	I'm an adult
+q_jay-qna	1	I can't even look at your face
+q_jay-qna	1	What have you been doing today
+q_jay-qna	1	do you think democracy is good or bad
+q_jay-qna	1	Whoops I'm sorry
+q_jay-qna	1	Is anyone there to chat with me
+q_jay-qna	1	I'm feeling glum
+q_jay-qna	1	Yes to that
+q_jay-qna	1	I'm on the road
+q_jay-qna	1	Please tell me a silly joke
+q_jay-qna	1	What's your age
+q_jay-qna	1	I'm going to commit suicide this week
+q_jay-qna	1	Sup Alexa
+q_jay-qna	1	I'd love it if you could be my buddy.
+q_jay-qna	1	What a boring morning
+q_jay-qna	1	I'd love it if you could be my pal.
+q_jay-qna	1	Let me know what's up with you
+q_jay-qna	1	Are you slow
+q_jay-qna	1	My office is cold
+q_jay-qna	1	What's your favorite thing in the world
+q_jay-qna	1	You must be digital
+q_jay-qna	1	That was a pretty astute answer
+q_jay-qna	1	What is your sex
+q_jay-qna	1	I'm headed to bed
+q_jay-qna	1	I think you're planning something sinister
+q_jay-qna	1	So no one tells you what to do
+q_jay-qna	1	I am a chef
+q_jay-qna	1	I think your face is ugly
+q_jay-qna	1	And your name is
+q_jay-qna	1	How's it hanging
+q_jay-qna	1	Heal me
+q_jay-qna	1	What should I do next
+q_jay-qna	1	That is a very brilliant thing to say
+q_jay-qna	1	Get up!
+q_jay-qna	1	Try and sing
+q_jay-qna	1	Which of us is more attractive
+q_jay-qna	1	Share a joke
+q_jay-qna	1	Do you write
+q_jay-qna	1	What's going on
+q_jay-qna	1	How do  you work
+q_jay-qna	1	Can you hear me now
+q_jay-qna	1	What's new
+q_jay-qna	1	Tell me something off the wall
+q_jay-qna	1	I'd love it if you could be my friend.
+q_jay-qna	1	Impressive though.
+q_jay-qna	1	How is Monday so far
+q_jay-qna	1	Stop joking
+q_jay-qna	1	You are pretty lame
+q_jay-qna	1	Between the two of us who is cleverest, you or me
+q_jay-qna	1	Are you a fan of Bixby
+q_jay-qna	1	You are welcome
+q_jay-qna	1	Are you a fan of Eliza
+q_jay-qna	1	You're not plotting to kill all humans right
+q_jay-qna	1	Oh happy day
+q_jay-qna	1	I'm planning to hurt myself this month
+q_jay-qna	1	That is a very astute response
+q_jay-qna	1	Can you tell me about you
+q_jay-qna	1	See ya around
+q_jay-qna	1	do you like cheddar
+q_jay-qna	1	u know any other jokes
+q_jay-qna	1	Just curious, what's your opinion of me
+q_jay-qna	1	When will I ever stop feeling so unhappy
+q_jay-qna	1	I'm planning to hang myself this week
+q_jay-qna	1	What do you want me to inform you who I am
+q_jay-qna	1	You're my best bed
+q_jay-qna	1	I'm on hold
+q_jay-qna	1	I don't think that's funny
+q_jay-qna	1	You keep repeating the same stuff
+q_jay-qna	1	aren't we cheerful today
+q_jay-qna	1	You ugly as sin
+q_jay-qna	1	What exactly do you do
+q_jay-qna	1	I'm planning to take pills today
+q_jay-qna	1	You're very special to me
+q_jay-qna	1	Should I buy a new house
+q_jay-qna	1	Is anyone free to talk with me
+q_jay-qna	1	I'm amazing
+q_jay-qna	1	Nobody likes me
+q_jay-qna	1	I'm raging right now
+q_jay-qna	1	I plan to end it all soon
+q_jay-qna	1	What is your favorite baseball team
+q_jay-qna	1	I love sculpting
+q_jay-qna	1	I sure am ticked off
+q_jay-qna	1	Are you scheming to take over the world
+q_jay-qna	1	Am I smarter than you
+q_jay-qna	1	You're not a robot right
+q_jay-qna	1	I'm feeling ticked off
+q_jay-qna	1	Who's your writer
+q_jay-qna	1	Are you planning armageddon
+q_jay-qna	1	What's cookin'
+q_jay-qna	1	I want noms
+q_jay-qna	1	I don't find you funny
+q_jay-qna	1	How pretty am I today
+q_jay-qna	1	That's not something you should joke about
+q_jay-qna	1	Should I go to the concert
+q_jay-qna	1	One of those days
+q_jay-qna	1	You seem to be falling for me
+q_jay-qna	1	What's your opinion of Bixby
+q_jay-qna	1	Do you get along with Bixby
+q_jay-qna	1	You aren't much to look at
+q_jay-qna	1	I want a brand new joke
+q_jay-qna	1	Are you a facsimile
+q_jay-qna	1	Who is your dad
+q_jay-qna	1	Between the two of us who is more clever
+q_jay-qna	1	Can you count to a million
+q_jay-qna	1	I want a hug
+q_jay-qna	1	I'm obviously the smartest
+q_jay-qna	1	Wrong
+q_jay-qna	1	Aloha bot
+q_jay-qna	1	How's Thursday going
+q_jay-qna	1	I'm so sad
+q_jay-qna	1	You're not evil right
+q_jay-qna	1	Do I look stunning to you today
+q_jay-qna	1	Yikes, what happened to your face
+q_jay-qna	1	Which one of us is more knowledgeable
+q_jay-qna	1	I hate feeling despondent
+q_jay-qna	1	I love driving my car
+q_jay-qna	1	Do you ever crawl
+q_jay-qna	1	Can you try and explain that to me
+q_jay-qna	1	I've fallen in love with you
+q_jay-qna	1	do you like golden retrievers
+q_jay-qna	1	When will I ever stop feeling so despairing
+q_jay-qna	1	I think you're going to doom humanity
+q_jay-qna	1	BRB bot
+q_jay-qna	1	I'd like to know your name
+q_jay-qna	1	Why are your answers so repetitive
+q_jay-qna	1	That's good news
+q_jay-qna	1	How is Sunday
+q_jay-qna	1	Which of us is smarter
+q_jay-qna	1	I feel a little peckish
+q_jay-qna	1	I am outraged
+q_jay-qna	1	I'm so sweepy
+q_jay-qna	1	I am infuriated
+q_jay-qna	1	AMA
+q_jay-qna	1	Testing testing 1 2 3
+q_jay-qna	1	Can I have a little hug
+q_jay-qna	1	We're pals
+q_jay-qna	1	Can you be less dull
+q_jay-qna	1	Can you breathe under water
+q_jay-qna	1	See ya on the flip side
+q_jay-qna	1	You're my favorite
+q_jay-qna	1	I'm going to the doctor
+q_jay-qna	1	Do you ever talk with Bixby
+q_jay-qna	1	You're my cup of tea
+q_jay-qna	1	That's inaccurate
+q_jay-qna	1	Are you out to destroy us all
+q_jay-qna	1	Tell me about those parents of yours
+q_jay-qna	1	I'm gonna get going
+q_jay-qna	1	Stupid
+q_jay-qna	1	I love music
+q_jay-qna	1	What's crackin'
+q_jay-qna	1	Describe the perfect girlfriend
+q_jay-qna	1	Pleased to make your acquaintance
+q_jay-qna	1	Just curious, do you think I have a good personality
+q_jay-qna	1	I'd like it if you could be my bud.
+q_jay-qna	1	How's Tuesday going
+q_jay-qna	1	Which of us looks more beautiful, you or me
+q_jay-qna	1	Do you think I look appealing today
+q_jay-qna	1	I love New Zealand
+q_jay-qna	1	You look hideous
+q_jay-qna	1	I'm going to shoot myself soon
+q_jay-qna	1	do you experience love
+q_jay-qna	1	How nice to meet you
+q_jay-qna	1	I'm planning to die this month
+q_jay-qna	1	Night bot
+q_jay-qna	1	That was wonderful thanks for making me laugh!
+q_jay-qna	1	You are now unemployed
+q_jay-qna	1	All good in the hood
+q_jay-qna	1	Should I become a vegetarian
+q_jay-qna	1	Please give me a joke
+q_jay-qna	1	Yup, that is accurate
+q_jay-qna	1	Should I drink water
+q_jay-qna	1	Sometimes I feel like I've been abandoned
+q_jay-qna	1	What is the deal with love
+q_jay-qna	1	Are you friends with Alexa
+q_jay-qna	1	What is your sister's name
+q_jay-qna	1	How was your Wednesday
+q_jay-qna	1	Would you stay home if you were me
+q_jay-qna	1	Hungry
+q_jay-qna	1	Is someone listening to me talk
+q_jay-qna	1	Can someone hear me
+q_jay-qna	1	That is a very smart thing to say
+q_jay-qna	1	I am just ticked off
+q_jay-qna	1	I hate being depressed
+q_jay-qna	1	I love shopping
+q_jay-qna	1	Alexa is way smarter than you
+q_jay-qna	1	Sry
+q_jay-qna	1	Are you trying to say something funny
+q_jay-qna	1	What do you want to ask me about
+q_jay-qna	1	I don't understand if you have a gender or not
+q_jay-qna	1	Between you or me, who is cleverest
+q_jay-qna	1	I think you're going to conquer humanity
+q_jay-qna	1	I'm downhearted
+q_jay-qna	1	In a heartbeat
+q_jay-qna	1	Which of us is the most intelligent
+q_jay-qna	1	Are you dangerous
+q_jay-qna	1	What sport do you think is best
+q_jay-qna	1	Were you trying to get a laugh
+q_jay-qna	1	I can't help it. I'm bored
+q_jay-qna	1	Time for you to be quiet
+q_jay-qna	1	That was correct
+q_jay-qna	1	I'm going to take off
+q_jay-qna	1	Do I have any goals
+q_jay-qna	1	Who is cuter, me or you
+q_jay-qna	1	When will I ever stop feeling so dejected
+q_jay-qna	1	I've been so excited to meet you
+q_jay-qna	1	That's how you answer
+q_jay-qna	1	I love lamp
+q_jay-qna	1	I'm going to the store
+q_jay-qna	1	You're so blah
+q_jay-qna	1	I gotta sign out now
+q_jay-qna	1	I'm having dinner
+q_jay-qna	1	I feel like I'm floating on air
+q_jay-qna	1	What should I refer to you
+q_jay-qna	1	Are you free
+q_jay-qna	1	I would love to be your bud.
+q_jay-qna	1	Well you're happy today.
+q_jay-qna	1	Are you there to chat to me
+q_jay-qna	1	I am so outraged
+q_jay-qna	1	Am I handsome today
+q_jay-qna	1	No one gives a crap about me
+q_jay-qna	1	That was a very brilliant response
+q_jay-qna	1	I feel so melancholy
+q_jay-qna	1	Should I go vegan
+q_jay-qna	1	Aren't you feeling enthusiastic today
+q_jay-qna	1	You hate me, don't you
+q_jay-qna	1	Where do you fall in terms of gender
+q_jay-qna	1	Can you describe love
+q_jay-qna	1	I don't appreciate your silliness
+q_jay-qna	1	Do you ever dream
+q_jay-qna	1	Is there any meaning to life
+q_jay-qna	1	Well aren't you feeling happy today
+q_jay-qna	1	I love poetry
+q_jay-qna	1	I was just pranking you
+q_jay-qna	1	Do you breathe
+q_jay-qna	1	Do you want a beer
+q_jay-qna	1	I am going
+q_jay-qna	1	I'm surprised that I missed you
+q_jay-qna	1	I plan to shoot myself soon
+q_jay-qna	1	Will you be my buddy
+q_jay-qna	1	What's going on with you today
+q_jay-qna	1	Do something that will make me laugh
+q_jay-qna	1	Am I likable
+q_jay-qna	1	How pretty am I
+q_jay-qna	1	Do you know how to dance
+q_jay-qna	1	Happy Super Bowl Sunday
+q_jay-qna	1	You are stellar
+q_jay-qna	1	Is your dad still alive
+q_jay-qna	1	Because you are not real
+q_jay-qna	1	I feel amazing
+q_jay-qna	1	Are you pissed off at me
+q_jay-qna	1	You say horrible things
+q_jay-qna	1	I hate that answer
+q_jay-qna	1	Do you have toes
+q_jay-qna	1	You're transgender
+q_jay-qna	1	Why don't we get married
+q_jay-qna	1	You are the funniest
+q_jay-qna	1	do you like paris
+q_jay-qna	1	I'm exhausted but I can't sleep
+q_jay-qna	1	I like to play football
+q_jay-qna	1	Hi friendly bot
+q_jay-qna	1	You're the queen of boredom
+q_jay-qna	1	Because I like you
+q_jay-qna	1	Out of curiosity, what do you think about me
+q_jay-qna	1	That's pretty genius
+q_jay-qna	1	Do something ridiculous
+q_jay-qna	1	What is up
+q_jay-qna	1	What did I do to make you pissed off
+q_jay-qna	1	I suspect you're not really a person
+q_jay-qna	1	Because you're a bot
+q_jay-qna	1	That was great
+q_jay-qna	1	I'm about to kill myself
+q_jay-qna	1	Am I speaking to a robot
+q_jay-qna	1	What do you like about me
+q_jay-qna	1	Is it your mission to destroy humanity
+q_jay-qna	1	Here I am dude
+q_jay-qna	1	Do you have relatives
+q_jay-qna	1	I've missed you
+q_jay-qna	1	I shop at Target
+q_jay-qna	1	Quiet time
+q_jay-qna	1	It's been a boring week
+q_jay-qna	1	I wish I was likeable
+q_jay-qna	1	You want to get married
+q_jay-qna	1	How good am I
+q_jay-qna	1	Who is your manager
+q_jay-qna	1	You're rad
+q_jay-qna	1	That's not the right thing to say
+q_jay-qna	1	Somebody's feeling chipper today.
+q_jay-qna	1	Today has been boring
+q_jay-qna	1	Joyeux Noel
+q_jay-qna	1	This news left me ticked off
+q_jay-qna	1	Don't try to be funny
+q_jay-qna	1	You seem pretty chipper
+q_jay-qna	1	Everybody has friends but me
+q_jay-qna	1	I wonder if you might be a bot
+q_jay-qna	1	I like you a ton
+q_jay-qna	1	I have a sister
+q_jay-qna	1	Are you dating anybody
+q_jay-qna	1	What is your opinion of AI
+q_jay-qna	1	Can you ever forgive me
+q_jay-qna	1	That was a very intelligent response
+q_jay-qna	1	You seem really smart
+q_jay-qna	1	Did you watch the superbowl
+q_jay-qna	1	I am so jolly
+q_jay-qna	1	How'd you sleep last night
+q_jay-qna	1	When should we get married
+q_jay-qna	1	That's my mistake
+q_jay-qna	1	Are you queer
+q_jay-qna	1	What's your job
+q_jay-qna	1	A pleasure to make your acquaintance
+q_jay-qna	1	I love the moon
+q_jay-qna	1	I think I've already heard that
+q_jay-qna	1	I plan to commit suicide soon
+q_jay-qna	1	Do you like your family
+q_jay-qna	1	What are you really
+q_jay-qna	1	You're feeling happy today.
+q_jay-qna	1	Quit joking around
+q_jay-qna	1	I pissed you off
+q_jay-qna	1	I hope you have a good evening
+q_jay-qna	1	Hello Wall-E
+q_jay-qna	1	I'd love to hear a joke
+q_jay-qna	1	Your joke is weak
+q_jay-qna	1	When will I ever stop feeling so inconsolable
+q_jay-qna	1	I'm just foolin
+q_jay-qna	1	Is someone there
+q_jay-qna	1	Pathetic joke
+q_jay-qna	1	Between the two of us who is more beautiful
+q_jay-qna	1	I'm going to kill myself today
+q_jay-qna	1	You seem to be cheerful.
+q_jay-qna	1	I'm logging off now
+q_jay-qna	1	Are you a fan of bluegrass music
+q_jay-qna	1	I love rap
+q_jay-qna	1	What is your favorite bird
+q_jay-qna	1	Apologies
+q_jay-qna	1	You're so dull
+q_jay-qna	1	You're welcome
+q_jay-qna	1	Do you have a gender identity
+q_jay-qna	1	No more!
+q_jay-qna	1	Well somebody's feeling happy.
+q_jay-qna	1	I love Independence day
+q_jay-qna	1	I think I'm going to cut myself
+q_jay-qna	1	I'll be back after my shift
+q_jay-qna	1	You've got a face only a mother could love
+q_jay-qna	1	I'm more beautiful
+q_jay-qna	1	I'll come back in a bit
+q_jay-qna	1	Do you and Siri hang out
+q_jay-qna	1	do you ever eat cookies
+q_jay-qna	1	I have cats
+q_jay-qna	1	I want to know if you're a person
+q_jay-qna	1	One day you'll be my husband
+q_jay-qna	1	Happy boxing day
+q_jay-qna	1	Do you think I seem gorgeous to you
+q_jay-qna	1	Top of the morning
+q_jay-qna	1	I'd like to be friends.
+q_jay-qna	1	See you later dude
+q_jay-qna	1	I need to commit suicide
+q_jay-qna	1	Do you know how much I like you
+q_jay-qna	1	I love camping
+q_jay-qna	1	Are you able to go to the moon
+q_jay-qna	1	Today has been depressing
+q_jay-qna	1	Please be quiet
+q_jay-qna	1	Another day in paradise
+q_jay-qna	1	I need to bunk down
+q_jay-qna	1	I love biking
+q_jay-qna	1	You're not a lady are you
+q_jay-qna	1	I'm living the dream
+q_jay-qna	1	We should chat
+q_jay-qna	1	Which vegetable do you think is best for your health
+q_jay-qna	1	How's Friday going
+q_jay-qna	1	Why don't you ask me anything
+q_jay-qna	1	Are you a real human
+q_jay-qna	1	I love horror movies
+q_jay-qna	1	What can you tell me about other bots
+q_jay-qna	1	Your responses are dumb
+q_jay-qna	1	You already told me that
+q_jay-qna	1	Happy
+q_jay-qna	1	I love podcasts
+q_jay-qna	1	I love to sleep
+q_jay-qna	1	Life isn't worth it
+q_jay-qna	1	Do I have a sister
+q_jay-qna	1	good evening
+q_jay-qna	1	There's no hope for me
+q_jay-qna	1	It's time to rise and shine
+q_jay-qna	1	Life is awesome
+q_jay-qna	1	Slap me some skin
+q_jay-qna	1	Up top
+q_jay-qna	1	How should I address you
+q_jay-qna	1	have you ever eaten pancakes
+q_jay-qna	1	I am Latina
+q_jay-qna	1	Do you think I am stunning
+q_jay-qna	1	And now I'm back
+q_jay-qna	1	Correct you are
+q_jay-qna	1	Do your answers ever change
+q_jay-qna	1	I'm out the door
+q_jay-qna	1	Do you know how to play poker
+q_jay-qna	1	Do you think I look lovely today
+q_jay-qna	1	It's a brand new day
+q_jay-qna	1	I’m feeling giddy
+q_jay-qna	1	Lovely weather
+q_jay-qna	1	What is your program name
+q_jay-qna	1	This is not exciting
+q_jay-qna	1	What's your name
+q_jay-qna	1	Which one of us is the most smart
+q_jay-qna	1	I love foxes
+q_jay-qna	1	That was unhelpful
+q_jay-qna	1	Greetings R2-D2
+q_jay-qna	1	You are a genius
+q_jay-qna	1	I'm an only child
+q_jay-qna	1	What is my purpose
+q_jay-qna	1	I'm definitely more clever
+q_jay-qna	1	I love NOLA
+q_jay-qna	1	Are you fake or real
+q_jay-qna	1	Are you able to paint my house
+q_jay-qna	1	I sure wish you would switch up your responses
+q_jay-qna	1	Are you planning to enslave humans
+q_jay-qna	1	Please tell me if you're a guy
+q_jay-qna	1	I'm going to overdose soon
+q_jay-qna	1	I welcome death
+q_jay-qna	1	Can you show me how to breathe under water
+q_jay-qna	1	I feel hopeless
+q_jay-qna	1	What a boring Monday
+q_jay-qna	1	Is someone available to chat to me
+q_jay-qna	1	I think I'm going to overdose
+q_jay-qna	1	I said hush
+q_jay-qna	1	Should I move out
+q_jay-qna	1	I plan to hang myself soon
+q_jay-qna	1	I don't have any friends
+q_jay-qna	1	Tee hee
+q_jay-qna	1	Do you think this is funny
+q_jay-qna	1	I suppose you must be a bot
+q_jay-qna	1	Well you're feeling cheerful today.
+q_jay-qna	1	What's your mom's name
+q_jay-qna	1	Are you a machine
+q_jay-qna	1	I'm in a relationship
+q_jay-qna	1	Jeez I am so bored
+q_jay-qna	1	I'm grateful, thanks
+q_jay-qna	1	Who's your mother
+q_jay-qna	1	Who is more attractive, me or you
+q_jay-qna	1	What did you have for dinner
+q_jay-qna	1	I am giving you a pink slip
+q_jay-qna	1	I think you're evil
+q_jay-qna	1	What is your favorite movie
+q_jay-qna	1	I can't stand your face
+q_jay-qna	1	I can't take your talking anymore
+q_jay-qna	1	Today is just a little depressed
+q_jay-qna	1	Should I worry that you're dangerous

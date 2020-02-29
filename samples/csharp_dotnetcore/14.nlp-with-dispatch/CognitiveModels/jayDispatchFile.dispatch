@@ -1,0 +1,50 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Weather",
+      "appId": "ab08f5a0-68fd-420a-8e82-eacc3b82240a",
+      "authoringKey": "347f42574e0845d0ac10e2544c68b92a",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Weather",
+      "id": "1"
+    },
+    {
+      "intentName": "l_HomeAutomation",
+      "appId": "4d2ef3d7-b666-4d07-906b-262da555636b",
+      "authoringKey": "347f42574e0845d0ac10e2544c68b92a",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Home Automation",
+      "id": "2"
+    },
+    {
+      "intentName": "q_jay-qna",
+      "includePrompts": true,
+      "kbId": "c32601c9-d88b-415c-878b-19a8fd895cd1",
+      "subscriptionKey": "6a879f8f02574e95b2302749361ed05c",
+      "type": "qna",
+      "name": "jayqnaMaker",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "2ba048fd-f9c2-4197-9d90-854f1e0dec0d",
+  "authoringKey": "347f42574e0845d0ac10e2544c68b92a",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "jayDispatchFile"
+}

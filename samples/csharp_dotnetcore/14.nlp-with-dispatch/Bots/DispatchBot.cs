@@ -58,7 +58,7 @@ namespace Microsoft.BotBuilderSamples
                 case "l_Weather":
                     await ProcessWeatherAsync(turnContext, recognizerResult.Properties["luisResult"] as LuisResult, cancellationToken);
                     break;
-                case "q_sample-qna":
+                case "q_jay-qna": //"q_sample -qna":
                     await ProcessSampleQnAAsync(turnContext, cancellationToken);
                     break;
                 default:

@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_HomeAutomation	38	23.36842	41	8	6.51162
+1	l_Weather	26	35.61538	62	15	10.95108
+2	q_jay-qna	9776	22.88942	81	1	8.79272
+ 	__ALL__	9840	22.9249	81	1	8.8148
