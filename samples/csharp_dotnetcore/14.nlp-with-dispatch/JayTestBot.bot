@@ -1,0 +1,18 @@
+{
+    "name": "JayTestBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3980/api/messages",
+            "id": "fb0deaa0-5d0e-11ea-9cf3-c12dfb2255d9",
+            "name": "http://localhost:3980/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\JayTestBot.bot"
+}

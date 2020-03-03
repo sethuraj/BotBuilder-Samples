@@ -4,13 +4,35 @@
     "services": [
         {
             "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
             "endpoint": "http://localhost:3978/api/messages",
-            "name": "jayDispatch",
-            "id": "247"
+            "id": "4379c630-5d12-11ea-92ca-c12326c96eea",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "luis",
+            "id": "60",
+            "name": "jayDispatchFile",
+            "version": "Dispatch",
+            "appId": "2ba048fd-f9c2-4197-9d90-854f1e0dec0d",
+            "authoringKey": "347f42574e0845d0ac10e2544c68b92a",
+            "subscriptionKey": "d50990e5-aac2-46ec-8a81-1e1e2bed756f",
+            "region": "westus"
+        },
+        {
+            "type": "qna",
+            "id": "163",
+            "name": "jayqnaMaker",
+            "kbId": "c32601c9-d88b-415c-878b-19a8fd895cd1",
+            "subscriptionKey": "d50990e5-aac2-46ec-8a81-1e1e2bed756f",
+            "endpointKey": "451b42e1-ebc4-41e5-a241-3b5f5275705f",
+            "hostname": "https://jayqnamakerservice.azurewebsites.net/qnamaker"
+            "region": "westus"
         }
     ],
     "padlock": "",
     "version": "2.0",
-    "path": "C:\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\jayqnabot.bot",
-    "overrides": null
+    "overrides": null,
+    "path": "C:\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\jayqnabot.bot"
 }

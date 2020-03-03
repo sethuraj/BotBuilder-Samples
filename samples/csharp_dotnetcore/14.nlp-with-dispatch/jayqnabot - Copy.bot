@@ -1,0 +1,18 @@
+{
+    "name": "jay-Dispatch-bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3980/api/messages",
+            "id": "d098bc10-5d0d-11ea-ae4e-a525f569a946",
+            "name": "http://localhost:3980/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Git\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\jayqnabot.bot"
+}
